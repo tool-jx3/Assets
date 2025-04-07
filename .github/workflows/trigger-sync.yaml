@@ -17,4 +17,4 @@ jobs:
       with:
         token: ${{ secrets.DISPATCH_PAT }}
         repository: tool-jx3/ParatranzUploader
-        event-type: sync-from-assets
+        event-type: release-from-assets
