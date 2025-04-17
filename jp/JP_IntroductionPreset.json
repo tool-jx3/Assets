@@ -1507,6 +1507,14 @@
     {
       "id": "introduce_sentence_189",
       "content": "僕が死んでも…お前は{0}に残る。"
+    },
+    {
+      "id": "introduce_word_190",
+      "content": "骨片"
+    },
+    {
+      "id": "introduce_sentence_190",
+      "content": "吊るし、燃やしたまえ。果てに{0}一つすら残らぬよう。"
     }
   ]
 }

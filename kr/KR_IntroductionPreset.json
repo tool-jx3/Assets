@@ -1507,6 +1507,14 @@
     {
       "id": "introduce_sentence_189",
       "content": "내가 죽어도… 넌 {0}에 남는다."
+    },
+    {
+      "id": "introduce_word_190",
+      "content": "뼛조각"
+    },
+    {
+      "id": "introduce_sentence_190",
+      "content": "매달고, 불태우거라. 끝끝내 {0} 하나 남지 않도록."
     }
   ]
 }
