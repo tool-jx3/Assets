@@ -89,7 +89,8 @@
         "UI_Mission_MirrorDungeon5Event",
         "EventLimbus2ndAnnivText",
         "NightCleanUpEvent",
-        "Fools2025"
+        "Fools2025",
+        "TooltipUIText"
     ],
     "character": [
         "Characters"
@@ -523,7 +524,9 @@
         "TutorialDesc0-4",
         "TutorialPopUpDesc",
         "TutorialNewUpperSkillInfoUI",
-        "TutorialDesc_Ab"
+        "TutorialDesc_Ab",
+        "TutorialRenewalDesc",
+        "TutorialRenewalMainUIDesc"
     ],
     "personalityVoice": [
         "Voice_Yisang_LCB_10101",
@@ -663,7 +666,8 @@
         "Voice_Gregor_Firepunch_11211",
         "Voice_Ryoshu_Blackwater_10411",
         "Voice_Outis_Blackwater_11112",
-        "Voice_Sinclair_MiddleFinger_11012"
+        "Voice_Sinclair_MiddleFinger_11012",
+        "Voice_Honglu_RCorp_10612"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -775,7 +779,8 @@
         "BgmLyrics_Ahab",
         "BgmLyrics_DistHeath",
         "BgmLyrics_MaouHeath",
-        "BgmLyrics_DonQuixote"
+        "BgmLyrics_DonQuixote",
+        "BgmLyrics_Pv"
     ],
     "threadDungeon": [
         "ThreadDungeon"
@@ -805,7 +810,8 @@
         "StoryTheaterDanteNoteDetail_5",
         "StoryTheaterDanteNoteDetail_6",
         "StoryTheaterDanteNoteDetail_7",
-        "StoryTheaterDanteNoteDetail_8"
+        "StoryTheaterDanteNoteDetail_8",
+        "StoryTheaterDanteNoteDetail_9"
     ],
     "danteNoteCategoryKeyword": [
         "StoryTheaterDanteNote",
@@ -815,7 +821,8 @@
         "StoryTheaterDanteNote_5",
         "StoryTheaterDanteNote_6",
         "StoryTheaterDanteNote_7",
-        "StoryTheaterDanteNote_8"
+        "StoryTheaterDanteNote_8",
+        "StoryTheaterDanteNote_9"
     ],
     "panicInfo": [
         "PanicInfo",
