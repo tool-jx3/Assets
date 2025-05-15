@@ -90,7 +90,8 @@
         "EventLimbus2ndAnnivText",
         "NightCleanUpEvent",
         "Fools2025",
-        "TooltipUIText"
+        "TooltipUIText",
+        "BattlePass-a1c8"
     ],
     "character": [
         "Characters"
@@ -127,7 +128,8 @@
         "Enemies-a1c971",
         "Enemies-a1c9116",
         "Enemies-sweep",
-        "Enemies-fools"
+        "Enemies-fools",
+        "Enemies-a1c8p1"
     ],
     "ego": [
         "Egos"
@@ -207,7 +209,8 @@
         "Skills_Enemy-a1c9115",
         "Skills_Abnormality-a1c9116",
         "Skills_Enemy-a1c9116",
-        "Skills_fools"
+        "Skills_fools",
+        "Skills_Enemy-a1c8p1"
     ],
     "passive": [
         "Passives",
@@ -254,7 +257,8 @@
         "Passive-a1c971",
         "Passives-a1c9116",
         "Passives_Abnormality-a1c9116",
-        "Passives_fools"
+        "Passives_fools",
+        "Passives_Enemy-a1c8p1"
     ],
     "buf": [
         "Bufs",
@@ -283,7 +287,8 @@
         "Bufs-a1c971",
         "Bufs-a1c9114",
         "Bufs-a1c9116",
-        "Bufs-fools"
+        "Bufs-fools",
+        "Bufs-a1c8p1"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -293,7 +298,8 @@
         "Items-a1c6",
         "Items-a1c7p1",
         "Items-a1c7p3",
-        "Items-fools"
+        "Items-fools",
+        "Items-a1c8p1"
     ],
     "keyword": [
         "BattleKeywords",
@@ -321,7 +327,8 @@
         "BattleKeywords-a1c971",
         "BattleKeywords-a1c9114",
         "BattleKeywords-a1c9116",
-        "BattleKeywords-fools"
+        "BattleKeywords-fools",
+        "BattleKeywords-a1c8p1"
     ],
     "skillTag": [
         "SkillTag"
@@ -461,7 +468,8 @@
         "StageNode-a1c7p3",
         "StageNode91-13",
         "StageNode91-14",
-        "StageNode91-16"
+        "StageNode91-16",
+        "StageNode-a1c8p1"
     ],
     "dungeonNodeInfo": [
         "MirrorDungeonNode1-1",
@@ -475,7 +483,8 @@
         "DungeonNode1-4",
         "DungeonNode1-5",
         "DungeonNode1-7",
-        "DungeonNode91-14"
+        "DungeonNode91-14",
+        "DungeonNode1-8"
     ],
     "railwayDungeonNodeInfo": [
         "RailwayDungeonNode1-1",
@@ -502,7 +511,8 @@
         "BattlePass_Banner",
         "BattlePass_Banner_2",
         "BattlePass_Banner-a1c6",
-        "BattlePass_Banner-a1c7"
+        "BattlePass_Banner-a1c7",
+        "BattlePass_Banner-a1c8"
     ],
     "storyTheater": [
         "StoryTheaterMain",
@@ -667,7 +677,9 @@
         "Voice_Ryoshu_Blackwater_10411",
         "Voice_Outis_Blackwater_11112",
         "Voice_Sinclair_MiddleFinger_11012",
-        "Voice_Honglu_RCorp_10612"
+        "Voice_Honglu_RCorp_10612",
+        "Voice_Gregor_Blackwater_11212",
+        "Voice_Rodion_Blackwater_10912"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -723,7 +735,8 @@
     "iapProduct": [
         "IAPProduct",
         "IAPProduct-a1c6",
-        "IAPProduct-a1c7"
+        "IAPProduct-a1c7",
+        "IAPProduct-a1c8"
     ],
     "iapSticker": [
         "IAPSticker"
@@ -755,19 +768,23 @@
     ],
     "userBanner": [
         "UserBanner",
-        "UserBanner-a1c7p3"
+        "UserBanner-a1c7p3",
+        "UserBanner-a1c8p1"
     ],
     "userTicketL": [
         "UserTicket-L",
-        "UserTicket-L-a1c7p3"
+        "UserTicket-L-a1c7p3",
+        "UserTicket-L-a1c8p1"
     ],
     "userTicketR": [
         "UserTicket-R",
-        "UserTicket-R-a1c7p3"
+        "UserTicket-R-a1c7p3",
+        "UserTicket-R-a1c8p1"
     ],
     "userTicketEGOBg": [
         "UserTicket-EGOBg",
-        "UserTicket-EGOBg-a1c7p3"
+        "UserTicket-EGOBg-a1c7p3",
+        "UserTicket-EGOBg-a1c8p1"
     ],
     "bgmLyrics": [
         "BgmLyrics_Credit",
@@ -839,7 +856,8 @@
         "PanicInfo-walpu5",
         "PanicInfo-a1c971",
         "PanicInfo-a1c9116",
-        "PanicInfo-fools"
+        "PanicInfo-fools",
+        "PanicInfo-a1c8p1"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs"
