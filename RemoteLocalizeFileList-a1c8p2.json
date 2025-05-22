@@ -91,7 +91,9 @@
         "NightCleanUpEvent",
         "Fools2025",
         "TooltipUIText",
-        "BattlePass-a1c8"
+        "BattlePass-a1c8",
+        "StoryDungeonUI-a1c8p2",
+        "UnitKeyword-a1c8p2"
     ],
     "character": [
         "Characters"
@@ -129,7 +131,9 @@
         "Enemies-a1c9116",
         "Enemies-sweep",
         "Enemies-fools",
-        "Enemies-a1c8p1"
+        "Enemies-a1c8p1",
+        "Enemies-a1c8p2",
+        "Assist-a1c8p2"
     ],
     "ego": [
         "Egos"
@@ -210,7 +214,10 @@
         "Skills_Abnormality-a1c9116",
         "Skills_Enemy-a1c9116",
         "Skills_fools",
-        "Skills_Enemy-a1c8p1"
+        "Skills_Enemy-a1c8p1",
+        "Skills_Enemy-a1c8p2",
+        "Skills_Abnormality-a1c8p2",
+        "Skills_Assist-a1c8p2"
     ],
     "passive": [
         "Passives",
@@ -258,7 +265,10 @@
         "Passives-a1c9116",
         "Passives_Abnormality-a1c9116",
         "Passives_fools",
-        "Passives_Enemy-a1c8p1"
+        "Passives_Enemy-a1c8p1",
+        "Passives_Enemy-a1c8p2",
+        "Passives_Abnormality-a1c8p2",
+        "Passives_Assist-a1c8p2"
     ],
     "buf": [
         "Bufs",
@@ -288,7 +298,8 @@
         "Bufs-a1c9114",
         "Bufs-a1c9116",
         "Bufs-fools",
-        "Bufs-a1c8p1"
+        "Bufs-a1c8p1",
+        "Bufs-a1c8p2"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -328,7 +339,8 @@
         "BattleKeywords-a1c9114",
         "BattleKeywords-a1c9116",
         "BattleKeywords-fools",
-        "BattleKeywords-a1c8p1"
+        "BattleKeywords-a1c8p1",
+        "BattleKeywords-a1c8p2"
     ],
     "skillTag": [
         "SkillTag"
@@ -354,7 +366,8 @@
         "AbEvents-a1c7p3",
         "AbEvents-walpu5",
         "AbEvents_lcbcheckup",
-        "AbEvents_night-clean-up"
+        "AbEvents_night-clean-up",
+        "AbEvents-a1c8p2"
     ],
     "abnormalityCharDlgs": [
         "AbDlg_YiSang",
@@ -416,7 +429,8 @@
         "ActionEvents-walpu5",
         "ActionEvents_lcbcheckup",
         "ActionEvents_a1c971",
-        "ActionEvents_night-clean-up"
+        "ActionEvents_night-clean-up",
+        "ActionEvents-a1c8p2"
     ],
     "egoGifts": [
         "EGOgift_StoryDungeon",
@@ -433,7 +447,9 @@
         "EGOgift_StoryDungeon-a1c7p3",
         "EGOgift_MirrorDungeon-StoryTheme_2",
         "EGOgift_MirrorDungeon-EventTheme_2",
-        "EGOgift_MirrorDungeon_2"
+        "EGOgift_MirrorDungeon_2",
+        "EGOgift_StoryDungeon-a1c8p2",
+        "EGOgift_a1c8p2"
     ],
     "stageChapter": [
         "StageChapterText",
@@ -469,7 +485,8 @@
         "StageNode91-13",
         "StageNode91-14",
         "StageNode91-16",
-        "StageNode-a1c8p1"
+        "StageNode-a1c8p1",
+        "StageNode-a1c8p2"
     ],
     "dungeonNodeInfo": [
         "MirrorDungeonNode1-1",
@@ -501,7 +518,8 @@
         "DungeonArea1-2",
         "DungeonArea1-3",
         "DungeonArea1-4",
-        "DungeonArea-a1c5p3"
+        "DungeonArea-a1c5p3",
+        "DungeonArea-a1c8p2"
     ],
     "quest": [
         "Quest"
@@ -521,7 +539,8 @@
     ],
     "announcer": [
         "Announcer",
-        "Announcer-m4d1"
+        "Announcer-m4d1",
+        "Announcer-a1c8p1"
     ],
     "normalBattleHint": [
         "BattleHint_NormalBattle"
@@ -679,7 +698,8 @@
         "Voice_Sinclair_MiddleFinger_11012",
         "Voice_Honglu_RCorp_10612",
         "Voice_Gregor_Blackwater_11212",
-        "Voice_Rodion_Blackwater_10912"
+        "Voice_Rodion_Blackwater_10912",
+        "Voice_Faust_Blackwater_10212"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -752,13 +772,15 @@
         "ChoiceEventEffect-a1c5p1",
         "ChoiceEventEffect-a1c5p2",
         "ChoiceEventEffect-a1c5p3",
-        "ChoiceEventEffect-a1c7p3"
+        "ChoiceEventEffect-a1c7p3",
+        "ChoiceEventEffect-a1c8p2"
     ],
     "battlePassMission": [
         "BattlePass_Mission"
     ],
     "gachaTitle": [
-        "GachaTitle"
+        "GachaTitle",
+        "GachaTitle-a1c8p2"
     ],
     "gachaNotice": [
         "GachaNotice"
@@ -857,7 +879,8 @@
         "PanicInfo-a1c971",
         "PanicInfo-a1c9116",
         "PanicInfo-fools",
-        "PanicInfo-a1c8p1"
+        "PanicInfo-a1c8p1",
+        "PanicInfo-a1c8p2"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs"
