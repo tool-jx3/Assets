@@ -93,7 +93,8 @@
         "TooltipUIText",
         "BattlePass-a1c8",
         "StoryDungeonUI-a1c8p2",
-        "UnitKeyword-a1c8p2"
+        "UnitKeyword-a1c8p2",
+        "UnitKeyword-a1c8p3"
     ],
     "character": [
         "Characters"
@@ -133,6 +134,7 @@
         "Enemies-fools",
         "Enemies-a1c8p1",
         "Enemies-a1c8p2",
+        "Enemies-a1c8p3",
         "Assist-a1c8p2"
     ],
     "ego": [
@@ -217,6 +219,8 @@
         "Skills_Enemy-a1c8p1",
         "Skills_Enemy-a1c8p2",
         "Skills_Abnormality-a1c8p2",
+        "Skills_Enemy-a1c8p3",
+        "Skills_Abnormality-a1c8p3",
         "Skills_Assist-a1c8p2"
     ],
     "passive": [
@@ -268,6 +272,8 @@
         "Passives_Enemy-a1c8p1",
         "Passives_Enemy-a1c8p2",
         "Passives_Abnormality-a1c8p2",
+        "Passives_Enemy-a1c8p3",
+        "Passives_Abnormality-a1c8p3",
         "Passives_Assist-a1c8p2"
     ],
     "buf": [
@@ -299,7 +305,8 @@
         "Bufs-a1c9116",
         "Bufs-fools",
         "Bufs-a1c8p1",
-        "Bufs-a1c8p2"
+        "Bufs-a1c8p2",
+        "Bufs-a1c8p3"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -340,7 +347,8 @@
         "BattleKeywords-a1c9116",
         "BattleKeywords-fools",
         "BattleKeywords-a1c8p1",
-        "BattleKeywords-a1c8p2"
+        "BattleKeywords-a1c8p2",
+        "BattleKeywords-a1c8p3"
     ],
     "skillTag": [
         "SkillTag"
@@ -403,7 +411,8 @@
         "AbnormalityGuides-mowe",
         "AbnormalityGuides-walpu4",
         "AbnormalityGuides-a1c7p3",
-        "AbnormalityGuides-a1c9114"
+        "AbnormalityGuides-a1c9114",
+        "AbnormalityGuides-a1c8p3"
     ],
     "keywordDictionary": [
         "KeywordDictionary"
@@ -486,7 +495,8 @@
         "StageNode91-14",
         "StageNode91-16",
         "StageNode-a1c8p1",
-        "StageNode-a1c8p2"
+        "StageNode-a1c8p2",
+        "StageNode-a1c8p3"
     ],
     "dungeonNodeInfo": [
         "MirrorDungeonNode1-1",
@@ -732,7 +742,9 @@
         "Announcer_Jun_27",
         "Announcer_Vergilius_28",
         "Announcer_Ricardo_29",
-        "Announcer_Charon_90002"
+        "Announcer_Charon_90002",
+        "Announcer_ZigongZilu_30",
+        "Announcer_Honglu_31"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
@@ -808,19 +820,20 @@
         "UserTicket-EGOBg-a1c7p3",
         "UserTicket-EGOBg-a1c8p1"
     ],
-    "bgmLyrics": [
-        "BgmLyrics_Credit",
-        "BgmLyrics_Credit4",
-        "BgmLyrics_Credit7",
-        "BgmLyrics_Cromer1",
-        "BgmLyrics_Cromer2",
-        "BgmLyrics_DongLang",
-        "BgmLyrics_Ahab",
-        "BgmLyrics_DistHeath",
-        "BgmLyrics_MaouHeath",
-        "BgmLyrics_DonQuixote",
-        "BgmLyrics_Pv"
-    ],
+  "bgmLyrics": [
+    "BgmLyrics_Credit",
+    "BgmLyrics_Credit4",
+    "BgmLyrics_Credit7",
+    "BgmLyrics_Cromer1",
+    "BgmLyrics_Cromer2",
+    "BgmLyrics_DongLang",
+    "BgmLyrics_Ahab",
+    "BgmLyrics_DistHeath",
+    "BgmLyrics_MaouHeath",
+    "BgmLyrics_DonQuixote",
+    "BgmLyrics_Pv",
+    "BgmLyrics_TianTian"
+  ],
     "threadDungeon": [
         "ThreadDungeon"
     ],
@@ -880,7 +893,8 @@
         "PanicInfo-a1c9116",
         "PanicInfo-fools",
         "PanicInfo-a1c8p1",
-        "PanicInfo-a1c8p2"
+        "PanicInfo-a1c8p2",
+        "PanicInfo-a1c8p3"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs"
@@ -895,7 +909,8 @@
         "MirrorDungeonEgoGiftLockedDesc"
     ],
     "danteAbility": [
-        "DanteAbility"
+        "DanteAbility",
+        "DanteAbility-a1c8p3"
     ],
     "mirrorDungeonTheme": [
         "MirrorDungeonTheme-1"
@@ -905,5 +920,15 @@
     ],
     "scenarioModelCodes": [
         "ScenarioModelCodes-AutoCreated"
+    ],
+    "story": [
+        "Story-a1c8p3"
+    ],
+    "storyCh8VideoEffect": [
+        "Ch8VideoEffectSettings"
+    ],
+
+    "storyCh8TextEffect": [
+        "Ch8TextEffectSettings"
     ]
 }
