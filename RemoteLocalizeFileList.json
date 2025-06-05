@@ -709,7 +709,8 @@
         "Voice_Honglu_RCorp_10612",
         "Voice_Gregor_Blackwater_11212",
         "Voice_Rodion_Blackwater_10912",
-        "Voice_Faust_Blackwater_10212"
+        "Voice_Faust_Blackwater_10212",
+        "Voice_Ishmael_Xichun_10812"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -791,8 +792,7 @@
         "BattlePass_Mission"
     ],
     "gachaTitle": [
-        "GachaTitle",
-        "GachaTitle-a1c8p2"
+        "GachaTitle"
     ],
     "gachaNotice": [
         "GachaNotice"
