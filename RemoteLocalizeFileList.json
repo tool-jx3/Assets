@@ -94,7 +94,9 @@
         "BattlePass-a1c8",
         "StoryDungeonUI-a1c8p2",
         "UnitKeyword-a1c8p2",
-        "UnitKeyword-a1c8p3"
+        "UnitKeyword-a1c8p3",
+        "MirrorDungeonUI_6",
+        "FormationUI_S6"
     ],
     "character": [
         "Characters"
@@ -375,7 +377,8 @@
         "AbEvents-walpu5",
         "AbEvents_lcbcheckup",
         "AbEvents_night-clean-up",
-        "AbEvents-a1c8p2"
+        "AbEvents-a1c8p2",
+        "AbEvents_Mirror6"
     ],
     "abnormalityCharDlgs": [
         "AbDlg_YiSang",
@@ -439,7 +442,8 @@
         "ActionEvents_lcbcheckup",
         "ActionEvents_a1c971",
         "ActionEvents_night-clean-up",
-        "ActionEvents-a1c8p2"
+        "ActionEvents-a1c8p2",
+        "ActionEvents_Mirror6"
     ],
     "egoGifts": [
         "EGOgift_StoryDungeon",
@@ -458,7 +462,8 @@
         "EGOgift_MirrorDungeon-EventTheme_2",
         "EGOgift_MirrorDungeon_2",
         "EGOgift_StoryDungeon-a1c8p2",
-        "EGOgift_a1c8p2"
+        "EGOgift_a1c8p2",
+        "EGOgift_MirrorDungeon_6"
     ],
     "stageChapter": [
         "StageChapterText",
@@ -712,7 +717,8 @@
         "Voice_Faust_Blackwater_10212",
         "Voice_Ishmael_Xichun_10812",
         "Voice_Meursault_Thumb_10512",
-        "Voice_Sinclair_Thumb_11013"
+        "Voice_Sinclair_Thumb_11013",
+        "Voice_Yisang_NEGO_10113"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -932,5 +938,8 @@
 
     "storyCh8TextEffect": [
         "Ch8TextEffectSettings"
+    ],
+    "announcerVoiceType": [
+        "AnnouncerVoiceType"
     ]
 }
