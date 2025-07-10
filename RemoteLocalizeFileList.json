@@ -223,7 +223,8 @@
         "Skills_Abnormality-a1c8p2",
         "Skills_Enemy-a1c8p3",
         "Skills_Abnormality-a1c8p3",
-        "Skills_Assist-a1c8p2"
+        "Skills_Assist-a1c8p2",
+        "Skills_Abnormality_Mirror6"
     ],
     "passive": [
         "Passives",
@@ -276,7 +277,8 @@
         "Passives_Abnormality-a1c8p2",
         "Passives_Enemy-a1c8p3",
         "Passives_Abnormality-a1c8p3",
-        "Passives_Assist-a1c8p2"
+        "Passives_Assist-a1c8p2",
+        "Passives_Abnormality-mr6"
     ],
     "buf": [
         "Bufs",
@@ -905,7 +907,7 @@
         "PanicInfo-a1c8p3"
     ],
     "dungeonStartBuffs": [
-        "DungeonStartBuffs"
+        "DungeonStartBuffs_MD6"
     ],
     "egoGiftCategory": [
         "EgoGiftCategory"
