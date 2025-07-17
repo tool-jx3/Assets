@@ -96,7 +96,8 @@
         "UnitKeyword-a1c8p2",
         "UnitKeyword-a1c8p3",
         "MirrorDungeonUI_6",
-        "FormationUI_S6"
+        "FormationUI_S6",
+        "Walpu6EventText"
     ],
     "character": [
         "Characters"
@@ -137,7 +138,9 @@
         "Enemies-a1c8p1",
         "Enemies-a1c8p2",
         "Enemies-a1c8p3",
-        "Assist-a1c8p2"
+        "Assist-a1c8p2",
+        "Enemies-walpu6",
+        "Assist-walpu6"
     ],
     "ego": [
         "Egos"
@@ -224,7 +227,9 @@
         "Skills_Enemy-a1c8p3",
         "Skills_Abnormality-a1c8p3",
         "Skills_Assist-a1c8p2",
-        "Skills_Abnormality_Mirror6"
+        "Skills_Abnormality_Mirror6",
+        "Skills_Abnormality-walpu6",
+        "Skills_Assist-walpu6"
     ],
     "passive": [
         "Passives",
@@ -278,7 +283,9 @@
         "Passives_Enemy-a1c8p3",
         "Passives_Abnormality-a1c8p3",
         "Passives_Assist-a1c8p2",
-        "Passives_Abnormality-mr6"
+        "Passives_Abnormality-mr6",
+        "Passives_Abnormality-walpu6",
+        "Passives_Assist-walpu6"
     ],
     "buf": [
         "Bufs",
@@ -310,7 +317,8 @@
         "Bufs-fools",
         "Bufs-a1c8p1",
         "Bufs-a1c8p2",
-        "Bufs-a1c8p3"
+        "Bufs-a1c8p3",
+        "Bufs-walpu6"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -352,7 +360,8 @@
         "BattleKeywords-fools",
         "BattleKeywords-a1c8p1",
         "BattleKeywords-a1c8p2",
-        "BattleKeywords-a1c8p3"
+        "BattleKeywords-a1c8p3",
+        "BattleKeywords-walpu6"
     ],
     "skillTag": [
         "SkillTag"
@@ -380,7 +389,8 @@
         "AbEvents_lcbcheckup",
         "AbEvents_night-clean-up",
         "AbEvents-a1c8p2",
-        "AbEvents_Mirror6"
+        "AbEvents_Mirror6",
+        "AbEvents-walpu6"
     ],
     "abnormalityCharDlgs": [
         "AbDlg_YiSang",
@@ -417,7 +427,8 @@
         "AbnormalityGuides-walpu4",
         "AbnormalityGuides-a1c7p3",
         "AbnormalityGuides-a1c9114",
-        "AbnormalityGuides-a1c8p3"
+        "AbnormalityGuides-a1c8p3",
+        "AbnormalityGuides-walpu6"
     ],
     "keywordDictionary": [
         "KeywordDictionary"
@@ -445,7 +456,8 @@
         "ActionEvents_a1c971",
         "ActionEvents_night-clean-up",
         "ActionEvents-a1c8p2",
-        "ActionEvents_Mirror6"
+        "ActionEvents_Mirror6",
+        "ActionEvents-walpu6"
     ],
     "egoGifts": [
         "EGOgift_StoryDungeon",
@@ -465,7 +477,8 @@
         "EGOgift_MirrorDungeon_2",
         "EGOgift_StoryDungeon-a1c8p2",
         "EGOgift_a1c8p2",
-        "EGOgift_MirrorDungeon_6"
+        "EGOgift_MirrorDungeon_6",
+        "EGOgift_walpu6"
     ],
     "stageChapter": [
         "StageChapterText",
@@ -503,7 +516,8 @@
         "StageNode91-16",
         "StageNode-a1c8p1",
         "StageNode-a1c8p2",
-        "StageNode-a1c8p3"
+        "StageNode-a1c8p3",
+        "StageNode91-17"
     ],
     "dungeonNodeInfo": [
         "MirrorDungeonNode1-1",
@@ -556,8 +570,7 @@
     ],
     "announcer": [
         "Announcer",
-        "Announcer-m4d1",
-        "Announcer-a1c8p1"
+        "Announcer-m4d1"
     ],
     "normalBattleHint": [
         "BattleHint_NormalBattle"
@@ -720,7 +733,9 @@
         "Voice_Ishmael_Xichun_10812",
         "Voice_Meursault_Thumb_10512",
         "Voice_Sinclair_Thumb_11013",
-        "Voice_Yisang_NEGO_10113"
+        "Voice_Yisang_NEGO_10113",
+        "Voice_DonQuixote_LEGOMagic_10312",
+        "Voice_Rodion_LEGO_10913"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -755,7 +770,9 @@
         "Announcer_Ricardo_29",
         "Announcer_Charon_90002",
         "Announcer_ZigongZilu_30",
-        "Announcer_Honglu_31"
+        "Announcer_Honglu_31",
+        "Announcer_Magical_32",
+        "Announcer_Tiphereth_33"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
