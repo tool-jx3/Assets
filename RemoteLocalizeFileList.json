@@ -87,6 +87,7 @@
         "RailwayDungeonUI_5",
         "MirrorDungeonUI_5_InfinityFloor",
         "UI_Mission_MirrorDungeon5Event",
+        "UI_Mission_MirrorDungeon6Event",
         "EventLimbus2ndAnnivText",
         "NightCleanUpEvent",
         "Fools2025",
@@ -98,7 +99,8 @@
         "MirrorDungeonUI_6",
         "FormationUI_S6",
         "Walpu6EventText",
-        "MirrorDungeonRentalUI"
+        "MirrorDungeonRentalUI",
+        "MirrorDungeonUI_6_Achievement"
     ],
     "character": [
         "Characters"
