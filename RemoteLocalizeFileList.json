@@ -100,7 +100,10 @@
         "FormationUI_S6",
         "Walpu6EventText",
         "MirrorDungeonRentalUI",
-        "MirrorDungeonUI_6_Achievement"
+        "MirrorDungeonUI_6_Achievement",
+        "ProjectGS",
+        "CultivationEvent",
+        "UI_Mission_CultivationEvent"
     ],
     "character": [
         "Characters"
@@ -143,7 +146,8 @@
         "Enemies-a1c8p3",
         "Assist-a1c8p2",
         "Enemies-walpu6",
-        "Assist-walpu6"
+        "Assist-walpu6",
+        "Enemies-cultivation"
     ],
     "ego": [
         "Egos"
@@ -234,7 +238,10 @@
         "Skills_Abnormality-walpu6",
         "Skills_Assist-walpu6",
         "Skills_Enemy-tkt-re",
-        "Skills_Abnormality-tkt-re"
+        "Skills_Abnormality-tkt-re",
+        "Skills_Abnormality-cultivation",
+        "Skills_Assist-Cultivation",
+        "Skills_Enemy-cultivation"
     ],
     "passive": [
         "Passives",
@@ -292,7 +299,10 @@
         "Passives_Abnormality-walpu6",
         "Passives_Assist-walpu6",
         "Passives_Enemy-tkt-re",
-        "Passives_Abnormality-tkt-re"
+        "Passives_Abnormality-tkt-re",
+        "Passives_Abnormality-cultivation",
+        "Passives_Assist-Cultivation",
+        "Passives_Enemy-cultivation"
     ],
     "buf": [
         "Bufs",
@@ -326,7 +336,8 @@
         "Bufs-a1c8p2",
         "Bufs-a1c8p3",
         "Bufs-walpu6",
-        "Bufs-tkt-re"
+        "Bufs-tkt-re",
+        "Bufs-cultivation"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -370,7 +381,8 @@
         "BattleKeywords-a1c8p2",
         "BattleKeywords-a1c8p3",
         "BattleKeywords-walpu6",
-        "BattleKeywords-tkt-re"
+        "BattleKeywords-tkt-re",
+        "BattleKeywords-cultivation"
     ],
     "skillTag": [
         "SkillTag"
@@ -400,7 +412,8 @@
         "AbEvents-a1c8p2",
         "AbEvents_Mirror6",
         "AbEvents-walpu6",
-        "AbEvents-tktRe"
+        "AbEvents-tktRe",
+        "AbEvents-cultivation"
     ],
     "abnormalityCharDlgs": [
         "AbDlg_YiSang",
@@ -468,7 +481,8 @@
         "ActionEvents-a1c8p2",
         "ActionEvents_Mirror6",
         "ActionEvents-walpu6",
-        "ActionEvents-tktRe"
+        "ActionEvents-tktRe",
+        "ActionEvents-cultivation"
     ],
     "egoGifts": [
         "EGOgift_StoryDungeon",
@@ -490,7 +504,8 @@
         "EGOgift_a1c8p2",
         "EGOgift_MirrorDungeon_6",
         "EGOgift_walpu6",
-        "EGOgift_tktRe"
+        "EGOgift_tktRe",
+        "EGOgift_cultivation"
     ],
     "stageChapter": [
         "StageChapterText",
@@ -529,7 +544,8 @@
         "StageNode-a1c8p1",
         "StageNode-a1c8p2",
         "StageNode-a1c8p3",
-        "StageNode91-17"
+        "StageNode91-17",
+        "StageNode91-19"
     ],
     "dungeonNodeInfo": [
         "MirrorDungeonNode1-1",
@@ -749,7 +765,9 @@
         "Voice_DonQuixote_LEGOMagic_10312",
         "Voice_Rodion_LEGO_10913",
         "Voice_Outis_TCorp_11113",
-        "Voice_Honglu_Monarch_10613"
+        "Voice_Honglu_Monarch_10613",
+        "Voice_Yisang_Blackwater_10114",
+        "Voice_Sinclair_Blackwater_11014"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -788,7 +806,8 @@
         "Announcer_Magical_32",
         "Announcer_Tiphereth_33",
         "Announcer_Hubert_34",
-        "Announcer_DetectiveTrio_35"
+        "Announcer_DetectiveTrio_35",
+        "Announcer_XichunWei_36"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
@@ -806,7 +825,8 @@
         "Voice_EGO_Enemy_999"
     ],
     "battleSpeechBubble": [
-        "BattleSpeechBubbleDlg"
+      "BattleSpeechBubbleDlg",
+      "BattleSpeechBubbleDlg_Cultivation"
     ],
     "iapProduct": [
         "IAPProduct",
@@ -895,7 +915,8 @@
     ],
     "mentalCondition": [
         "MentalCondition",
-        "MentalCondition-a1c6p3"
+        "MentalCondition-a1c6p3",
+        "reward-popup-text-ProjectGS"
     ],
     "danteNote": [
         "StoryTheaterDanteNoteDetail",
@@ -937,7 +958,8 @@
         "PanicInfo-fools",
         "PanicInfo-a1c8p1",
         "PanicInfo-a1c8p2",
-        "PanicInfo-a1c8p3"
+        "PanicInfo-a1c8p3",
+        "PanicInfo-cultivation"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs_MD6"
@@ -979,5 +1001,11 @@
     ],
     "mirrorDungeonRentalName": [
         "MirrorDungeonRentalName"
+    ],
+    "projectGSLessonName": [
+        "ProjectGSLessonName"
+    ],
+    "projectGSComboName": [
+        "ProjectGSComboName"
     ]
 }
