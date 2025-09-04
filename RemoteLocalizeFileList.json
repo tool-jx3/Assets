@@ -337,7 +337,8 @@
         "Bufs-a1c8p3",
         "Bufs-walpu6",
         "Bufs-tkt-re",
-        "Bufs-cultivation"
+        "Bufs-cultivation",
+        "Bufs_Mirror6"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -382,7 +383,8 @@
         "BattleKeywords-a1c8p3",
         "BattleKeywords-walpu6",
         "BattleKeywords-tkt-re",
-        "BattleKeywords-cultivation"
+        "BattleKeywords-cultivation",
+        "BattleKeywords_Mirror6"
     ],
     "skillTag": [
         "SkillTag"
@@ -966,9 +968,6 @@
     ],
     "egoGiftCategory": [
         "EgoGiftCategory"
-    ],
-    "mirrorDungeonEnemyBuffDesc": [
-        "MirrorDungeonEnemyBuffDesc"
     ],
     "mirrorDungeonEgoGiftLockedDesc": [
         "MirrorDungeonEgoGiftLockedDesc"
