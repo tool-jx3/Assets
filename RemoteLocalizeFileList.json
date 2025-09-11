@@ -147,7 +147,8 @@
         "Assist-a1c8p2",
         "Enemies-walpu6",
         "Assist-walpu6",
-        "Enemies-cultivation"
+        "Enemies-cultivation",
+        "Enemies-hidden"
     ],
     "ego": [
         "Egos"
@@ -769,7 +770,8 @@
         "Voice_Outis_TCorp_11113",
         "Voice_Honglu_Monarch_10613",
         "Voice_Yisang_Blackwater_10114",
-        "Voice_Sinclair_Blackwater_11014"
+        "Voice_Sinclair_Blackwater_11014",
+        "Voice_Ryoshu_LEGO_10412"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -961,7 +963,8 @@
         "PanicInfo-a1c8p1",
         "PanicInfo-a1c8p2",
         "PanicInfo-a1c8p3",
-        "PanicInfo-cultivation"
+        "PanicInfo-cultivation",
+        "PanicInfo-hidden"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs_MD6"
