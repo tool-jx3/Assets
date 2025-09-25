@@ -18,6 +18,7 @@
         "MirrorDungeonAbName",
         "StoryTheaterUIText",
         "TutorialMainUIText",
+        "TutorialMainUIText_pilgrimage",
         "Filter",
         "IntroductionPreset",
         "ShopUI",
@@ -103,7 +104,10 @@
         "MirrorDungeonUI_6_Achievement",
         "ProjectGS",
         "CultivationEvent",
-        "UI_Mission_CultivationEvent"
+        "UI_Mission_CultivationEvent",
+        "PilgrimageUIText",
+        "AbEventsResultLog-pilgrimage",
+        "UnitKeyword-pilgrimage"
     ],
     "character": [
         "Characters"
@@ -148,7 +152,8 @@
         "Enemies-walpu6",
         "Assist-walpu6",
         "Enemies-cultivation",
-        "Enemies-hidden"
+        "Enemies-hidden",
+        "Enemies-pilgrimage"
     ],
     "ego": [
         "Egos"
@@ -242,7 +247,9 @@
         "Skills_Abnormality-tkt-re",
         "Skills_Abnormality-cultivation",
         "Skills_Assist-Cultivation",
-        "Skills_Enemy-cultivation"
+        "Skills_Enemy-cultivation",
+        "Skills_Enemy-pilgrimage",
+        "Skills_Abnormality-pilgrimage"
     ],
     "passive": [
         "Passives",
@@ -303,7 +310,9 @@
         "Passives_Abnormality-tkt-re",
         "Passives_Abnormality-cultivation",
         "Passives_Assist-Cultivation",
-        "Passives_Enemy-cultivation"
+        "Passives_Enemy-cultivation",
+        "Passives_Enemy-pilgrimage",
+        "Passives_Abnormality-pilgrimage"
     ],
     "buf": [
         "Bufs",
@@ -339,7 +348,8 @@
         "Bufs-walpu6",
         "Bufs-tkt-re",
         "Bufs-cultivation",
-        "Bufs_Mirror6"
+        "Bufs_Mirror6",
+        "Bufs-pilgrimage"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -385,7 +395,8 @@
         "BattleKeywords-walpu6",
         "BattleKeywords-tkt-re",
         "BattleKeywords-cultivation",
-        "BattleKeywords_Mirror6"
+        "BattleKeywords_Mirror6",
+        "BattleKeywords-pilgrimage"
     ],
     "skillTag": [
         "SkillTag"
@@ -416,7 +427,9 @@
         "AbEvents_Mirror6",
         "AbEvents-walpu6",
         "AbEvents-tktRe",
-        "AbEvents-cultivation"
+        "AbEvents-cultivation",
+        "AbEvents-pilgrimage"
+
     ],
     "abnormalityCharDlgs": [
         "AbDlg_YiSang",
@@ -454,7 +467,8 @@
         "AbnormalityGuides-a1c7p3",
         "AbnormalityGuides-a1c9114",
         "AbnormalityGuides-a1c8p3",
-        "AbnormalityGuides-walpu6"
+        "AbnormalityGuides-walpu6",
+        "AbnormalityGuides-pilgrimage"
     ],
     "keywordDictionary": [
         "KeywordDictionary"
@@ -485,7 +499,8 @@
         "ActionEvents_Mirror6",
         "ActionEvents-walpu6",
         "ActionEvents-tktRe",
-        "ActionEvents-cultivation"
+        "ActionEvents-cultivation",
+        "ActionEvents-pilgrimage"
     ],
     "egoGifts": [
         "EGOgift_StoryDungeon",
@@ -508,7 +523,8 @@
         "EGOgift_MirrorDungeon_6",
         "EGOgift_walpu6",
         "EGOgift_tktRe",
-        "EGOgift_cultivation"
+        "EGOgift_cultivation",
+        "EGOgift_pilgrimage"
     ],
     "stageChapter": [
         "StageChapterText",
@@ -548,7 +564,9 @@
         "StageNode-a1c8p2",
         "StageNode-a1c8p3",
         "StageNode91-17",
-        "StageNode91-19"
+        "StageNode91-19",
+        "StageNode91-20",
+        "StageNode91-21"
     ],
     "dungeonNodeInfo": [
         "MirrorDungeonNode1-1",
@@ -563,7 +581,9 @@
         "DungeonNode1-5",
         "DungeonNode1-7",
         "DungeonNode91-14",
-        "DungeonNode1-8"
+        "DungeonNode1-8",
+        "DungeonNode91-20",
+        "DungeonNode91-21"
     ],
     "railwayDungeonNodeInfo": [
         "RailwayDungeonNode1-1",
@@ -811,7 +831,8 @@
         "Announcer_Tiphereth_33",
         "Announcer_Hubert_34",
         "Announcer_DetectiveTrio_35",
-        "Announcer_XichunWei_36"
+        "Announcer_XichunWei_36",
+        "Announcer_Amiya_37"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
@@ -964,7 +985,8 @@
         "PanicInfo-a1c8p2",
         "PanicInfo-a1c8p3",
         "PanicInfo-cultivation",
-        "PanicInfo-hidden"
+        "PanicInfo-hidden",
+        "PanicInfo-pilgrimage"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs_MD6"
