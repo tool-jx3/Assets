@@ -249,7 +249,8 @@
         "Skills_Assist-Cultivation",
         "Skills_Enemy-cultivation",
         "Skills_Enemy-pilgrimage",
-        "Skills_Abnormality-pilgrimage"
+        "Skills_Abnormality-pilgrimage",
+        "Skills_Abnormality-mowe-re"
     ],
     "passive": [
         "Passives",
@@ -312,7 +313,8 @@
         "Passives_Assist-Cultivation",
         "Passives_Enemy-cultivation",
         "Passives_Enemy-pilgrimage",
-        "Passives_Abnormality-pilgrimage"
+        "Passives_Abnormality-pilgrimage",
+        "Passives_Abnormality-mowe-re"
     ],
     "buf": [
         "Bufs",
@@ -428,7 +430,8 @@
         "AbEvents-walpu6",
         "AbEvents-tktRe",
         "AbEvents-cultivation",
-        "AbEvents-pilgrimage"
+        "AbEvents-pilgrimage",
+        "AbEvents_mowe-re"
 
     ],
     "abnormalityCharDlgs": [
@@ -500,7 +503,8 @@
         "ActionEvents-walpu6",
         "ActionEvents-tktRe",
         "ActionEvents-cultivation",
-        "ActionEvents-pilgrimage"
+        "ActionEvents-pilgrimage",
+        "ActionEvents_mowe-re"
     ],
     "egoGifts": [
         "EGOgift_StoryDungeon",
@@ -524,7 +528,8 @@
         "EGOgift_walpu6",
         "EGOgift_tktRe",
         "EGOgift_cultivation",
-        "EGOgift_pilgrimage"
+        "EGOgift_pilgrimage",
+        "EGOgift_MirrorDungeon-mowe-re"
     ],
     "stageChapter": [
         "StageChapterText",
@@ -792,7 +797,9 @@
         "Voice_Yisang_Blackwater_10114",
         "Voice_Sinclair_Blackwater_11014",
         "Voice_Ryoshu_LEGO_10412",
-        "Voice_Faust_ShiAsso2_10213"
+        "Voice_Faust_ShiAsso2_10213",
+        "Voice_Meursault_Bloodfiend_10513",
+        "Voice_Heathcliff_WCorp_10713"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -833,7 +840,8 @@
         "Announcer_Hubert_34",
         "Announcer_DetectiveTrio_35",
         "Announcer_XichunWei_36",
-        "Announcer_Amiya_37"
+        "Announcer_Amiya_37",
+        "Announcer_WarpAnnouncer_38"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
@@ -852,7 +860,8 @@
     ],
     "battleSpeechBubble": [
       "BattleSpeechBubbleDlg",
-      "BattleSpeechBubbleDlg_Cultivation"
+      "BattleSpeechBubbleDlg_Cultivation",
+      "BattleSpeechBubbleDlg_MOWE"
     ],
     "iapProduct": [
         "IAPProduct",
