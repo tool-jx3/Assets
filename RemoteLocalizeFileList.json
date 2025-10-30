@@ -861,7 +861,7 @@
     "battleSpeechBubble": [
       "BattleSpeechBubbleDlg",
       "BattleSpeechBubbleDlg_Cultivation",
-      "BattleSpeechBubbleDlg_MOWE"
+      "BattleSpeechBubbleDlg_mowe"
     ],
     "iapProduct": [
         "IAPProduct",
