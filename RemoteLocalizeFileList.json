@@ -108,6 +108,7 @@
         "PilgrimageUIText",
         "AbEventsResultLog-pilgrimage",
         "UnitKeyword-pilgrimage",
+        "RailwayDungeonUI_1001",
         "Walpu7EventText"
     ],
     "character": [
@@ -251,7 +252,8 @@
         "Skills_Enemy-cultivation",
         "Skills_Enemy-pilgrimage",
         "Skills_Abnormality-pilgrimage",
-        "Skills_Abnormality-mowe-re"
+        "Skills_Abnormality-mowe-re",
+        "Skills_Abnormality_Refraction1_bokgak"
     ],
     "passive": [
         "Passives",
@@ -315,7 +317,8 @@
         "Passives_Enemy-cultivation",
         "Passives_Enemy-pilgrimage",
         "Passives_Abnormality-pilgrimage",
-        "Passives_Abnormality-mowe-re"
+        "Passives_Abnormality-mowe-re",
+        "Passives_Abnormality_Refraction1BokGak"
     ],
     "buf": [
         "Bufs",
@@ -352,7 +355,8 @@
         "Bufs-tkt-re",
         "Bufs-cultivation",
         "Bufs_Mirror6",
-        "Bufs-pilgrimage"
+        "Bufs-pilgrimage",
+        "Bufs-Refraction1BokGak"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -399,7 +403,8 @@
         "BattleKeywords-tkt-re",
         "BattleKeywords-cultivation",
         "BattleKeywords_Mirror6",
-        "BattleKeywords-pilgrimage"
+        "BattleKeywords-pilgrimage",
+        "BattleKeywords-Refraction1BokGak"
     ],
     "skillTag": [
         "SkillTag"
@@ -600,7 +605,8 @@
         "RailwayDungeonNode2",
         "RailwayDungeonNode3",
         "RailwayDungeonNode4",
-        "RailwayDungeonNode5"
+        "RailwayDungeonNode5",
+        "RailwayDungeonNode1BokGak"
     ],
     "railwayDungeon": [
         "RailwayDungeon"
@@ -806,7 +812,9 @@
         "Voice_Meursault_Bloodfiend_10513",
         "Voice_Heathcliff_WCorp_10713",
         "Voice_Ishmael_Hanafuda_10813",
-        "Voice_Gregor_Capitano_11213"
+        "Voice_Gregor_Capitano_11213",
+        "Voice_DonQuixote_Heishou_10313",
+        "Voice_Heathcliff_Heishou_10714"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -948,7 +956,8 @@
         "RailwayDungeonStationName2",
         "RailwayDungeonStationName3",
         "RailwayDungeonStationName4",
-        "RailwayDungeonStationName5"
+        "RailwayDungeonStationName5",
+        "RailwayDungeonStationName1001"
     ],
     "railwayDungeonBuff": [
         "RailwayDungeonBuff"
