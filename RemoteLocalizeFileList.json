@@ -109,7 +109,8 @@
         "AbEventsResultLog-pilgrimage",
         "UnitKeyword-pilgrimage",
         "RailwayDungeonUI_1001",
-        "Walpu7EventText"
+        "Walpu7EventText",
+        "StageStatisticUIText"
     ],
     "character": [
         "Characters"
