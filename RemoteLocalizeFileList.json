@@ -815,7 +815,8 @@
         "Voice_Ishmael_Hanafuda_10813",
         "Voice_Gregor_Capitano_11213",
         "Voice_DonQuixote_Heishou_10313",
-        "Voice_Heathcliff_Heishou_10714"
+        "Voice_Heathcliff_Heishou_10714",
+        "Voice_Ryoshu_Hongyuan_10413"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -858,7 +859,8 @@
         "Announcer_XichunWei_36",
         "Announcer_Amiya_37",
         "Announcer_WarpAnnouncer_38",
-        "Announcer_Gebura_39"
+        "Announcer_Gebura_39",
+        "Announcer_Leiheng_40"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
