@@ -110,7 +110,8 @@
         "UnitKeyword-pilgrimage",
         "RailwayDungeonUI_1001",
         "Walpu7EventText",
-        "StageStatisticUIText"
+        "StageStatisticUIText",
+        "StageContinueText"
     ],
     "character": [
         "Characters"
