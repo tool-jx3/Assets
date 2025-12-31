@@ -111,7 +111,11 @@
         "RailwayDungeonUI_1001",
         "Walpu7EventText",
         "StageStatisticUIText",
-        "StageContinueText"
+        "StageContinueText",
+        "BattlePass-a1c9",
+        "BattlePass_Banner-a1c8",
+        "UnitKeyword-a1c9p1",
+        "AbEventsResultLog-a1c9p1"
     ],
     "character": [
         "Characters"
@@ -157,7 +161,8 @@
         "Assist-walpu6",
         "Enemies-cultivation",
         "Enemies-hidden",
-        "Enemies-pilgrimage"
+        "Enemies-pilgrimage",
+        "Enemies-a1c9p1"
     ],
     "ego": [
         "Egos"
@@ -255,7 +260,10 @@
         "Skills_Enemy-pilgrimage",
         "Skills_Abnormality-pilgrimage",
         "Skills_Abnormality-mowe-re",
-        "Skills_Abnormality_Refraction1_bokgak"
+        "Skills_Abnormality_Refraction1_bokgak",
+        "Skills_Abnormality-a1c9p1",
+        "Skills_Enemy-a1c9p1",
+        "Skills_personality-a1c9p1"
     ],
     "passive": [
         "Passives",
@@ -320,7 +328,10 @@
         "Passives_Enemy-pilgrimage",
         "Passives_Abnormality-pilgrimage",
         "Passives_Abnormality-mowe-re",
-        "Passives_Abnormality_Refraction1BokGak"
+        "Passives_Abnormality_Refraction1BokGak",
+        "Passives_Abnormality-a1c9p1",
+        "Passives_Enemy-a1c9p1",
+        "Passives-a1c9p1"
     ],
     "buf": [
         "Bufs",
@@ -358,7 +369,8 @@
         "Bufs-cultivation",
         "Bufs_Mirror6",
         "Bufs-pilgrimage",
-        "Bufs-Refraction1BokGak"
+        "Bufs-Refraction1BokGak",
+        "Bufs-a1c9p1"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -369,7 +381,8 @@
         "Items-a1c7p1",
         "Items-a1c7p3",
         "Items-fools",
-        "Items-a1c8p1"
+        "Items-a1c8p1",
+        "Items-a1c9p1"
     ],
     "keyword": [
         "BattleKeywords",
@@ -406,7 +419,8 @@
         "BattleKeywords-cultivation",
         "BattleKeywords_Mirror6",
         "BattleKeywords-pilgrimage",
-        "BattleKeywords-Refraction1BokGak"
+        "BattleKeywords-Refraction1BokGak",
+        "BattleKeywords-a1c9p1"
     ],
     "skillTag": [
         "SkillTag"
@@ -439,7 +453,8 @@
         "AbEvents-tktRe",
         "AbEvents-cultivation",
         "AbEvents-pilgrimage",
-        "AbEvents_mowe-re"
+        "AbEvents_mowe-re",
+        "AbEvents-a1c9p1"
 
     ],
     "abnormalityCharDlgs": [
@@ -479,7 +494,8 @@
         "AbnormalityGuides-a1c9114",
         "AbnormalityGuides-a1c8p3",
         "AbnormalityGuides-walpu6",
-        "AbnormalityGuides-pilgrimage"
+        "AbnormalityGuides-pilgrimage",
+        "AbnormalityGuides-a1c9p1"
     ],
     "keywordDictionary": [
         "KeywordDictionary"
@@ -512,7 +528,8 @@
         "ActionEvents-tktRe",
         "ActionEvents-cultivation",
         "ActionEvents-pilgrimage",
-        "ActionEvents_mowe-re"
+        "ActionEvents_mowe-re",
+        "ActionEvents-a1c9p1"
     ],
     "egoGifts": [
         "EGOgift_StoryDungeon",
@@ -579,7 +596,9 @@
         "StageNode91-17",
         "StageNode91-19",
         "StageNode91-20",
-        "StageNode91-21"
+        "StageNode91-21",
+        "StageNode-a1c9p1"
+       
     ],
     "dungeonNodeInfo": [
         "MirrorDungeonNode1-1",
@@ -624,14 +643,6 @@
     "quest": [
         "Quest"
     ],
-    "battlePass": [
-        "BattlePass",
-        "BattlePass_Banner",
-        "BattlePass_Banner_2",
-        "BattlePass_Banner-a1c6",
-        "BattlePass_Banner-a1c7",
-        "BattlePass_Banner-a1c8"
-    ],
     "storyTheater": [
         "StoryTheaterMain",
         "StoryTheaterOther",
@@ -639,13 +650,17 @@
     ],
     "announcer": [
         "Announcer",
-        "Announcer-m4d1"
+        "Announcer-m4d1",
+        "Announcer-a1c9p1"
     ],
     "normalBattleHint": [
         "BattleHint_NormalBattle"
     ],
     "abBattleHint": [
         "BattleHint_AbnorBattle"
+    ],
+    "battleResultHint": [
+        "BattleResultHint-a1c9p1"
     ],
     "tutorialDesc": [
         "TutorialDesc",
@@ -818,7 +833,9 @@
         "Voice_DonQuixote_Heishou_10313",
         "Voice_Heathcliff_Heishou_10714",
         "Voice_Ryoshu_Hongyuan_10413",
-        "Voice_Rodion_RCorp_10914"
+        "Voice_Rodion_RCorp_10914",
+        "Voice_Faust_Index_10214",
+        "Voice_Outis_LCA_11114"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -882,13 +899,15 @@
     "battleSpeechBubble": [
       "BattleSpeechBubbleDlg",
       "BattleSpeechBubbleDlg_Cultivation",
-      "BattleSpeechBubbleDlg_mowe"
+      "BattleSpeechBubbleDlg_mowe",
+      "BattleSpeechBubbleDlg-a1c9p1"
     ],
     "iapProduct": [
         "IAPProduct",
         "IAPProduct-a1c6",
         "IAPProduct-a1c7",
-        "IAPProduct-a1c8"
+        "IAPProduct-a1c8",
+        "IAPProduct-a1c9"
     ],
     "iapSticker": [
         "IAPSticker"
@@ -927,17 +946,20 @@
     "userTicketL": [
         "UserTicket-L",
         "UserTicket-L-a1c7p3",
-        "UserTicket-L-a1c8p1"
+        "UserTicket-L-a1c8p1",
+        "UserTicket-L-a1c9p1"
     ],
     "userTicketR": [
         "UserTicket-R",
         "UserTicket-R-a1c7p3",
-        "UserTicket-R-a1c8p1"
+        "UserTicket-R-a1c8p1",
+        "UserTicket-R-a1c9p1"
     ],
     "userTicketEGOBg": [
         "UserTicket-EGOBg",
         "UserTicket-EGOBg-a1c7p3",
-        "UserTicket-EGOBg-a1c8p1"
+        "UserTicket-EGOBg-a1c8p1",
+        "UserTicket-EGOBg-a1c9p1"
     ],
   "bgmLyrics": [
     "BgmLyrics_Credit",
@@ -1018,7 +1040,8 @@
         "PanicInfo-a1c8p3",
         "PanicInfo-cultivation",
         "PanicInfo-hidden",
-        "PanicInfo-pilgrimage"
+        "PanicInfo-pilgrimage",
+        "PanicInfo-a1c9p1"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs_MD6"
