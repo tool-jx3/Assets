@@ -115,13 +115,15 @@
         "BattlePass-a1c9",
         "BattlePass_Banner-a1c8",
         "UnitKeyword-a1c9p1",
-        "AbEventsResultLog-a1c9p1"
+        "AbEventsResultLog-a1c9p1",
+        "UnitKeyword-a1c9p2"
     ],
     "character": [
         "Characters"
     ],
     "personality": [
-        "Personalities"
+        "Personalities",
+        "Personalities-a1c9p2"
     ],
     "enemy": [
         "Enemies",
@@ -162,10 +164,13 @@
         "Enemies-cultivation",
         "Enemies-hidden",
         "Enemies-pilgrimage",
-        "Enemies-a1c9p1"
+        "Enemies-a1c9p1",
+        "Enemies-a1c9p2",
+        "Assist-a1c9p2"
     ],
     "ego": [
-        "Egos"
+        "Egos",
+        "Egos-a1c9p2"
     ],
     "skill": [
         "Skills",
@@ -195,6 +200,7 @@
         "Skills_Ego_Personality-11",
         "Skills_Ego_Personality-12",
         "Skills_Ego-a1c5p2",
+        "Skills_Ego-a1c9p2",
         "Skills_Enemy",
         "Skills_Enemy91-4",
         "Skills_Abnormality",
@@ -263,7 +269,11 @@
         "Skills_Abnormality_Refraction1_bokgak",
         "Skills_Abnormality-a1c9p1",
         "Skills_Enemy-a1c9p1",
-        "Skills_personality-a1c9p1"
+        "Skills_Abnormality-a1c9p2",
+        "Skills_Assist-a1c9p2",
+        "Skills_personality-a1c9p1",
+        "Skills_personality-a1c9p2",
+        "Skills_Ego_Personality-a1c9p2"
     ],
     "passive": [
         "Passives",
@@ -330,8 +340,12 @@
         "Passives_Abnormality-mowe-re",
         "Passives_Abnormality_Refraction1BokGak",
         "Passives_Abnormality-a1c9p1",
+        "Passives_Abnormality-a1c9p2",
         "Passives_Enemy-a1c9p1",
-        "Passives-a1c9p1"
+        "Passives_Assist-a1c9p2",
+        "Passives-a1c9p1",
+        "Passives-a1c9p2",
+        "Passive_Ego-a1c9p2"
     ],
     "buf": [
         "Bufs",
@@ -370,7 +384,8 @@
         "Bufs_Mirror6",
         "Bufs-pilgrimage",
         "Bufs-Refraction1BokGak",
-        "Bufs-a1c9p1"
+        "Bufs-a1c9p1",
+        "Bufs-a1c9p2"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -420,7 +435,8 @@
         "BattleKeywords_Mirror6",
         "BattleKeywords-pilgrimage",
         "BattleKeywords-Refraction1BokGak",
-        "BattleKeywords-a1c9p1"
+        "BattleKeywords-a1c9p1",
+        "BattleKeywords-a1c9p2"
     ],
     "skillTag": [
         "SkillTag"
@@ -454,7 +470,8 @@
         "AbEvents-cultivation",
         "AbEvents-pilgrimage",
         "AbEvents_mowe-re",
-        "AbEvents-a1c9p1"
+        "AbEvents-a1c9p1",
+        "AbEvents-a1c9p2"
 
     ],
     "abnormalityCharDlgs": [
@@ -495,7 +512,8 @@
         "AbnormalityGuides-a1c8p3",
         "AbnormalityGuides-walpu6",
         "AbnormalityGuides-pilgrimage",
-        "AbnormalityGuides-a1c9p1"
+        "AbnormalityGuides-a1c9p1",
+        "AbnormalityGuides-a1c9p2"
     ],
     "keywordDictionary": [
         "KeywordDictionary"
@@ -597,8 +615,8 @@
         "StageNode91-19",
         "StageNode91-20",
         "StageNode91-21",
-        "StageNode-a1c9p1"
-       
+        "StageNode-a1c9p1",
+        "StageNode-a1c9p2"
     ],
     "dungeonNodeInfo": [
         "MirrorDungeonNode1-1",
@@ -660,7 +678,8 @@
         "BattleHint_AbnorBattle"
     ],
     "battleResultHint": [
-        "BattleResultHint-a1c9p1"
+        "BattleResultHint-a1c9p1",
+        "BattleResultHint-a1c9p2"
     ],
     "tutorialDesc": [
         "TutorialDesc",
@@ -835,7 +854,8 @@
         "Voice_Ryoshu_Hongyuan_10413",
         "Voice_Rodion_RCorp_10914",
         "Voice_Faust_Index_10214",
-        "Voice_Outis_LCA_11114"
+        "Voice_Outis_LCA_11114",
+        "Voice_DonQuixote_Index_10314"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -897,10 +917,11 @@
         "Voice_EGO_Enemy_999"
     ],
     "battleSpeechBubble": [
-      "BattleSpeechBubbleDlg",
-      "BattleSpeechBubbleDlg_Cultivation",
-      "BattleSpeechBubbleDlg_mowe",
-      "BattleSpeechBubbleDlg-a1c9p1"
+        "BattleSpeechBubbleDlg",
+        "BattleSpeechBubbleDlg_Cultivation",
+        "BattleSpeechBubbleDlg_mowe",
+        "BattleSpeechBubbleDlg-a1c9p1",
+        "BattleSpeechBubbleDlg-a1c9p2"
     ],
     "iapProduct": [
         "IAPProduct",
@@ -961,22 +982,23 @@
         "UserTicket-EGOBg-a1c8p1",
         "UserTicket-EGOBg-a1c9p1"
     ],
-  "bgmLyrics": [
-    "BgmLyrics_Credit",
-    "BgmLyrics_Credit4",
-    "BgmLyrics_Credit7",
-    "BgmLyrics_Cromer1",
-    "BgmLyrics_Cromer2",
-    "BgmLyrics_DongLang",
-    "BgmLyrics_Ahab",
-    "BgmLyrics_DistHeath",
-    "BgmLyrics_MaouHeath",
-    "BgmLyrics_DonQuixote",
-    "BgmLyrics_Pv",
-    "BgmLyrics_TianTian"
-  ],
+    "bgmLyrics": [
+        "BgmLyrics_Credit",
+        "BgmLyrics_Credit4",
+        "BgmLyrics_Credit7",
+        "BgmLyrics_Cromer1",
+        "BgmLyrics_Cromer2",
+        "BgmLyrics_DongLang",
+        "BgmLyrics_Ahab",
+        "BgmLyrics_DistHeath",
+        "BgmLyrics_MaouHeath",
+        "BgmLyrics_DonQuixote",
+        "BgmLyrics_Pv",
+        "BgmLyrics_TianTian"
+    ],
     "threadDungeon": [
-        "ThreadDungeon"
+        "ThreadDungeon",
+        "ThreadDungeon-a1c9p2"
     ],
     "railwayDungeonStationName": [
         "RailwayDungeonStationName1-1",
@@ -1041,7 +1063,8 @@
         "PanicInfo-cultivation",
         "PanicInfo-hidden",
         "PanicInfo-pilgrimage",
-        "PanicInfo-a1c9p1"
+        "PanicInfo-a1c9p1",
+        "PanicInfo-a1c9p2"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs_MD6"
@@ -1054,7 +1077,8 @@
     ],
     "danteAbility": [
         "DanteAbility",
-        "DanteAbility-a1c8p3"
+        "DanteAbility-a1c8p3",
+        "DanteAbility-a1c9p2"
     ],
     "mirrorDungeonTheme": [
         "MirrorDungeonTheme-1"
