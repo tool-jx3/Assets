@@ -116,7 +116,9 @@
         "BattlePass_Banner-a1c8",
         "UnitKeyword-a1c9p1",
         "AbEventsResultLog-a1c9p1",
-        "UnitKeyword-a1c9p2"
+        "DanteAbilityUIText_a1c9p3",
+        "UnitKeyword-a1c9p2",
+        "UnitKeyword-a1c9p3"
     ],
     "character": [
         "Characters"
@@ -166,11 +168,14 @@
         "Enemies-pilgrimage",
         "Enemies-a1c9p1",
         "Enemies-a1c9p2",
-        "Assist-a1c9p2"
+        "Enemies-a1c9p3",
+        "Assist-a1c9p2",
+        "Assist-a1c9p3"
     ],
     "ego": [
         "Egos",
-        "Egos-a1c9p2"
+        "Egos-a1c9p2",
+        "Egos-a1c9p3"
     ],
     "skill": [
         "Skills",
@@ -270,10 +275,14 @@
         "Skills_Abnormality-a1c9p1",
         "Skills_Enemy-a1c9p1",
         "Skills_Abnormality-a1c9p2",
+        "Skills_Enemy-a1c9p3",
+        "Skills_Abnormality-a1c9p3",
         "Skills_Assist-a1c9p2",
+        "Skills_Assist-a1c9p3",
         "Skills_personality-a1c9p1",
         "Skills_personality-a1c9p2",
-        "Skills_Ego_Personality-a1c9p2"
+        "Skills_Ego_Personality-a1c9p2",
+        "Skills_Ego_Personality-a1c9p3"
     ],
     "passive": [
         "Passives",
@@ -342,10 +351,15 @@
         "Passives_Abnormality-a1c9p1",
         "Passives_Abnormality-a1c9p2",
         "Passives_Enemy-a1c9p1",
+        "Passives_Enemy-a1c9p3",
+        "Passives_Abnormality-a1c9p3",
         "Passives_Assist-a1c9p2",
+        "Passives_Assist-a1c9p3",
         "Passives-a1c9p1",
         "Passives-a1c9p2",
-        "Passive_Ego-a1c9p2"
+        "Passive_Ego-a1c9p2",
+        "Passive_Ego-a1c9p3",
+        "Passives-a1c9p3"
     ],
     "buf": [
         "Bufs",
@@ -385,7 +399,8 @@
         "Bufs-pilgrimage",
         "Bufs-Refraction1BokGak",
         "Bufs-a1c9p1",
-        "Bufs-a1c9p2"
+        "Bufs-a1c9p2",
+        "Bufs-a1c9p3"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -436,7 +451,8 @@
         "BattleKeywords-pilgrimage",
         "BattleKeywords-Refraction1BokGak",
         "BattleKeywords-a1c9p1",
-        "BattleKeywords-a1c9p2"
+        "BattleKeywords-a1c9p2",
+        "BattleKeywords-a1c9p3"
     ],
     "skillTag": [
         "SkillTag"
@@ -547,7 +563,8 @@
         "ActionEvents-cultivation",
         "ActionEvents-pilgrimage",
         "ActionEvents_mowe-re",
-        "ActionEvents-a1c9p1"
+        "ActionEvents-a1c9p1",
+        "ActionEvents-a1c9p2"
     ],
     "egoGifts": [
         "EGOgift_StoryDungeon",
@@ -616,7 +633,8 @@
         "StageNode91-20",
         "StageNode91-21",
         "StageNode-a1c9p1",
-        "StageNode-a1c9p2"
+        "StageNode-a1c9p2",
+        "StageNode-a1c9p3"
     ],
     "dungeonNodeInfo": [
         "MirrorDungeonNode1-1",
@@ -669,7 +687,7 @@
     "announcer": [
         "Announcer",
         "Announcer-m4d1",
-        "Announcer-a1c9p1"
+        "Announcer-a1c9p3"
     ],
     "normalBattleHint": [
         "BattleHint_NormalBattle"
@@ -679,7 +697,8 @@
     ],
     "battleResultHint": [
         "BattleResultHint-a1c9p1",
-        "BattleResultHint-a1c9p2"
+        "BattleResultHint-a1c9p2",
+        "BattleResultHint-a1c9p3"
     ],
     "tutorialDesc": [
         "TutorialDesc",
@@ -899,7 +918,11 @@
         "Announcer_Amiya_37",
         "Announcer_WarpAnnouncer_38",
         "Announcer_Gebura_39",
-        "Announcer_Leiheng_40"
+        "Announcer_Leiheng_40",
+        "Announcer_Ryoshu_42",
+        "Announcer_PinkyChibi_41",
+        "Announcer_Sode_90003",
+        "Announcer_LCDAengdu_90004"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
@@ -914,14 +937,16 @@
         "Voice_EGO_Sinclair_10",
         "Voice_EGO_Outis_11",
         "Voice_EGO_Gregor_12",
-        "Voice_EGO_Enemy_999"
+        "Voice_EGO_Enemy_999",
+        "Voice_EGO_Common_998"
     ],
     "battleSpeechBubble": [
-        "BattleSpeechBubbleDlg",
-        "BattleSpeechBubbleDlg_Cultivation",
-        "BattleSpeechBubbleDlg_mowe",
-        "BattleSpeechBubbleDlg-a1c9p1",
-        "BattleSpeechBubbleDlg-a1c9p2"
+      "BattleSpeechBubbleDlg",
+      "BattleSpeechBubbleDlg_Cultivation",
+      "BattleSpeechBubbleDlg_mowe",
+      "BattleSpeechBubbleDlg-a1c9p1",
+      "BattleSpeechBubbleDlg-a1c9p2",
+      "BattleSpeechBubbleDlg-a1c9p3"
     ],
     "iapProduct": [
         "IAPProduct",
@@ -994,7 +1019,10 @@
         "BgmLyrics_MaouHeath",
         "BgmLyrics_DonQuixote",
         "BgmLyrics_Pv",
-        "BgmLyrics_TianTian"
+        "BgmLyrics_TianTian",
+        "BgmLyrics_Saikai",
+        "BgmLyrics_Credit9",
+        "BgmLyrics_10948"
     ],
     "threadDungeon": [
         "ThreadDungeon",
@@ -1064,7 +1092,8 @@
         "PanicInfo-hidden",
         "PanicInfo-pilgrimage",
         "PanicInfo-a1c9p1",
-        "PanicInfo-a1c9p2"
+        "PanicInfo-a1c9p2",
+        "PanicInfo-a1c9p3"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs_MD6"
@@ -1078,7 +1107,8 @@
     "danteAbility": [
         "DanteAbility",
         "DanteAbility-a1c8p3",
-        "DanteAbility-a1c9p2"
+        "DanteAbility-a1c9p2",
+        "DanteAbility-a1c9p3"
     ],
     "mirrorDungeonTheme": [
         "MirrorDungeonTheme-1"
@@ -1110,5 +1140,8 @@
     ],
     "projectGSComboName": [
         "ProjectGSComboName"
+    ],
+    "errorCodeMsg": [
+        "ErrorCodeMsg"
     ]
 }
