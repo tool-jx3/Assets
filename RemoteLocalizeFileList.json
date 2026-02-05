@@ -488,7 +488,6 @@
         "AbEvents_mowe-re",
         "AbEvents-a1c9p1",
         "AbEvents-a1c9p2"
-
     ],
     "abnormalityCharDlgs": [
         "AbDlg_YiSang",
@@ -875,7 +874,9 @@
         "Voice_Faust_Index_10214",
         "Voice_Outis_LCA_11114",
         "Voice_DonQuixote_Index_10314",
-        "Voice_Ishmael_KumoMiddle_10814"
+        "Voice_Ishmael_KumoMiddle_10814",
+        "Voice_Sinclair_KumoPinky_11015",
+        "Voice_Gregor_LCELamp_11214"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
