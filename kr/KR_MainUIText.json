@@ -2015,6 +2015,22 @@
     {
       "id": "assistant_level",
       "content": "캐릭터 레벨"
+    },
+    {
+      "id": "mainui_ego_gift_keyword",
+      "content": "키워드"
+    },
+    {
+      "id": "mainui_ego_gift_grade",
+      "content": "등급"
+    },
+    {
+      "id": "mainui_use_random_piece_package",
+      "content": "자아 파편 상자 사용"
+    },
+    {
+      "id": "mainui_use_optional_piece_package",
+      "content": "자아 파편 선택 상자 사용"
     }
   ]
 }

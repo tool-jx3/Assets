@@ -2118,7 +2118,7 @@
     {
       "id": "Retreat",
       "name": "Strategic R&R Mode",
-      "desc": "- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)",
+      "desc": "- Turn End: recover from Stagger and Retreat from the Encounter (excluding forced Staggers; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)",
       "summary": "",
       "undefined": "-"
     },
@@ -2314,7 +2314,7 @@
     {
       "id": "FreishutzOutisEgoBullet_7th",
       "name": "The Seventh Magic Bullet",
-      "desc": "- Deal +200% damage\n- Deal +2.5% damage for every 1% missing HP on target (max 200%)\n- Before Attack: for this attack, if the Pierce Damage Res. on target or on self are less than 2.0, change them to Fatal(x2.0)\n- After Attack: kills this unit"
+      "desc": "- Deal +200% damage\n- Deal +2.5% damage for every 1% missing HP on target (max 200%)\n- Before Attack: for this attack, if the Pierce Damage Res. on target or on self are less than 2.0, change them to Fatal(x2.0)\n- Attack End: kills this unit"
     },
     {
       "id": "FreishutzOutisEgoBulletCnt",
@@ -2339,7 +2339,7 @@
     {
       "id": "Retreat_FullStop",
       "name": "Overwatch Assignment",
-      "desc": "- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)"
+      "desc": "- Turn End: recover from Stagger and Retreat from the Encounter (excluding forced Staggers; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)"
     },
     {
       "id": "LogicAtelierAM",
@@ -2602,14 +2602,14 @@
     {
       "id": "RetreatForCommon",
       "name": "Battlefield Retreat",
-      "desc": "- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self save for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)",
+      "desc": "- Turn End: recover from Stagger and Retreat from the Encounter (excluding forced Staggers; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self save for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FireBulletPropellant",
       "name": "Scorch Propellant Ammo",
-      "desc": "- Max Capacity: 15\n- Unique Ammo\n- Spent by certain Skills",
+      "desc": "- Unique Ammo\n- Max Stack : 15\n- Consumed when using certain Skills",
       "summary": "",
       "undefined": "-"
     },
@@ -2841,7 +2841,7 @@
     {
       "id": "CommonExit",
       "name": "Escape Battlefield",
-      "desc": "- Turn End: recover from Stagger and escape from the Encounter (unless it's a forced Stagger; does not count as death)",
+      "desc": "- Turn End: recover from Stagger and escape from the Encounter (excluding forced Staggers; does not count as death)",
       "summary": ""
     },
     {
@@ -2907,13 +2907,13 @@
     {
       "id": "BloodArmorMeursault",
       "name": "Hardblood Armor",
-      "desc": "- Max Stack: 5\n- If this unit isn't at max HP: after its Skill attack, heal 10% of HP damage dealt (once per turn; max 40 healing)\n- After Attack: if this unit dealt HP damage, lose 1 Stack (once per turn)\n• If Lust Reson. was activated, halve the amount of HP healed, but do not lose any Hardblood Armor Stack",
+      "desc": "- Max Stack: 5\n- If this unit isn't at max HP: after its Skill attack, heal 10% of HP damage dealt (once per turn; max 40 healing)\n- Attack End: If this unit dealt HP damage, lose 1 Stack (once per turn)\n• If Lust Reson. was activated, halve the amount of HP healed, but do not lose any Hardblood Armor Stack",
       "undefined": "-"
     },
     {
       "id": "FocusOnActing",
       "name": "Focused Performance",
-      "desc": "- Max Stack: 3\n- <La Manchaland> Identities only; includes Empowered Skills\n- Skill 1 and Skill 2 gain Final Power +1; deal +5% damage for every Stack (max 15%)\n- Skill 3 gains Final Power +2; deals +10% damage for every Stack (max 30%)\n- Lose 1 Stack when:\n  1) After attacking with Skill 3\n  2) If this unit does not have Hardblood Armor at Turn Start",
+      "desc": "- Max Stack: 3\n- <La Manchaland> Identities only; includes Empowered Skills\n- Skill 1 and Skill 2 gain Final Power +1; deal +5% damage for every Stack (max 15%)\n- Skill 3 gains Final Power +2; deals +10% damage for every Stack (max 30%)\n- Lose 1 Stack when:\n  1) Skill 3 Attack End\n  2) If this unit does not have Hardblood Armor at Turn Start",
       "summary": "On Hit, deal more damage",
       "undefined": "-"
     },
@@ -3088,14 +3088,14 @@
     {
       "id": "SheutFracture",
       "name": "Sheut Fracture",
-      "desc": "- Max Stack: 10\n- Unique Sinking\n- For every Stack, take +1% more damage from Sloth and Gloom Skills\n- At max Stack, gain 1 Gloom Fragility (once per turn), take Gloom damage equal to Sinking Potency on self(lose 1 Sinking Count), then expires\n- If the unit with this effect dies, transfer half of its Stack to its ally with the highest SP (rounded down)\n- Turn Start: If there are no LCA Identities on the field, expires",
+      "desc": "- Unique Sinking\n- Max Stack: 10\n- For every Stack, take +1% more damage from Sloth and Gloom Skills\n- At max Stack, gain 1 Gloom Fragility (once per turn), take Gloom damage equal to Sinking Potency on self (lose 1 Sinking Count), then expires\n- If the unit with this effect dies, transfer half of its Stack to its ally with the highest SP (rounded down)\n- Turn Start: If there are no LCA Identities on the field, expires",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "LCA_Bullet",
       "name": "LCA Fracture Round",
-      "desc": "- Max Capacity: 16\n- Unique Ammo\n- Spent by certain Skills\n- Some attacks cancel if lacking Ammo",
+      "desc": "- Unique Ammo\n- Max Capacity: 16\n- Spent by certain Skills\n- Some attacks cancel if lacking Ammo",
       "summary": "",
       "undefined": "-"
     },
@@ -3193,6 +3193,271 @@
       "id": "LittleFingerID",
       "name": "Moonlit Azure Blade",
       "desc": "- Max Stack: 20\n- Turn Start: Gain 2 Shield for every Stack\n- Deal +1% damage on Critical Hit for every Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptYi_0",
+      "name": "Prescript: [Device] I",
+      "desc": "Use a Skill marked with Mark of the Prescript or hit a target with a marked Skill.\n\n- Turn Start: Gain this effect when this unit has no Unlock\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 3",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+    },
+    {
+      "id": "IndexPrescriptYi_1",
+      "name": "Prescript: [Device] II",
+      "desc": "Hit a target with a Skill marked with Mark of the Prescript.\n\n- Turn Start: Gain this effect if this unit has Unlock - I\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 6",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+    },
+    {
+      "id": "IndexPrescriptYi_2",
+      "name": "Prescript: [Device] III",
+      "desc": "Gain Procuration [Hermes]. Repeat this Prescript until Procuration [Hermes] reaches 9 Stacks.\n\n- Turn Start: Gain this effect if this unit has Unlock - II\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 9",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+    },
+    {
+      "id": "IndexPrescriptYi_3",
+      "name": "Prescript: [Device] IV",
+      "desc": "Eliminate all enemies before the next Prescript arrives.\n\n- Turn Start: Gain this effect if this unit has Unlock - III",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+    },
+    {
+      "id": "StackYisangSpecialSkill",
+      "name": "Procuration [Hermes]",
+      "desc": "- Turn Start: At 9 Stack, a powerful Skill becomes available\n- Can be gained up to (Unlock stage + 2) Stack per turn\n- Max Stack: 9\n· At below Unlock - II, this effect's maximum Stack is limited to 8",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "Shin_IndexFingerYisang",
+      "name": "Shin (心) - Fate",
+      "desc": "- Min & Max Speed +1\n- Gain +1 more Poise Potency and Count from Base Skills\n- If this unit's SP is higher than the target's, deal +1% damage for every 3 SP difference (max 15%; units without SP are considered to be at 0 SP)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "BurningWoundYisangMask",
+      "name": "Wound-casing Mask",
+      "desc": "- Offense Level +2, Defense Level -2\n- Take -10% damage from Unopposed Attacks",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "BurningWoundYisang",
+      "name": "Sizzling Wound",
+      "desc": "- Offense Level +3, Defense Level -3\n- Take -25% damage from Unopposed Attacks\n- Turn Start: Gain 1 Burn and 1 Bleed\n- Deal +15% damage with Base Attack Skill's Unbreakable Coins",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "BlackNightmareYisang",
+      "name": "Indulgence in Prescripts",
+      "desc": "- Min & Max Speed +5\n- Apply the following effects to 'Furioso-Replica':\n· On Hit, inflict +1 more Sinking Potency and gain +1 more Poise Potency\n· On Hit, inflict +3 Sinking Count (once per target)\n· Deal +30% damage\n- Expires at Turn End",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon01Hatchet",
+      "name": "When hacking through the ribs with a hatchet...",
+      "desc": "- This Coin deals Blunt damage\n- On Hit without Cracking, gain 2 Poise",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon02Stiletto",
+      "name": "When penetrating the lungs with a stiletto...",
+      "desc": "- This Coin deals Pierce damage\n- On Hit without Cracking, inflict 2 Sinking",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon03Greatsword",
+      "name": "When cleaving through the shoulder and the skull with a bastard sword...",
+      "desc": "- This Coin deals Slash damage\n- This Coin deals +5% damage\n- On Hit without Cracking, gain 1 Offense Level Up next turn (2 times per turn)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon04Rapier",
+      "name": "When punching 10 or more holes in the torso with a rapier...",
+      "desc": "- This Coin deals Pierce damage\n- This Coin deals +5% damage\n- On Hit without Cracking, inflict 1 Defense Level Down next turn (2 times per turn)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon05Sledgehammer",
+      "name": "When caving in the back of the skull with a hammer...",
+      "desc": "- This Coin deals Blunt damage\n- This Coin deals +5% damage\n- On Hit without Cracking, raise target's Stagger Threshold by 3",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon06Ultragreatsword",
+      "name": "When rending the body with a great sword...",
+      "desc": "- This Coin deals Slash damage\n- This Coin deals +15% damage\n- On Hit without Cracking, inflict 1 Slash Fragility until next turn (2 times per turn)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon07Lance",
+      "name": "When boring a 20-inch hole with a lance...",
+      "desc": "- This Coin deals Pierce damage\n- This Coin deals +15% damage\n- On Hit without Cracking, inflict 1 Pierce Fragility until next turn (2 times per turn)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon08Chain",
+      "name": "When ripping the flesh to ten thousand strips with a whip...",
+      "desc": "- This Coin deals Blunt damage\n- This Coin deals +15% damage\n- On Hit without Cracking, inflict 1 Blunt Fragility until next turn (2 times per turn)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon09Scythe",
+      "name": "When lacerating through space itself with a scythe, like a certain someone...",
+      "desc": "- This Coin deals Slash damage\n- This Coin deals +30% damage\n- On Hit without Cracking, it hits a guaranteed Crit",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "SatisfyingEsteemNeeds",
+      "name": "Desire for Acknowledgement Sated",
+      "desc": "- Deal +7.5% damage with Skills marked with Mark of the Prescript\n- Deal +7.5% damage against The Prescript's Targets",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "ThatIsRhythm",
+      "name": "Rhythm",
+      "desc": "- Max Stack: 5\n- Deal +2% damage for every Stack (max 10%)\n- Offense Level +1 for every Stack (max 5)\n- Defense Level -1 for every Stack (max -5)\n- Turn End: This effect expires",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultBeeSpore",
+      "name": "Spore",
+      "desc": "- Max Stack: 15\n- Turn End: Gain +1 Burn Count for every 5 Stack\n- Gain 1 Bind next turn",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultWorkerBee",
+      "name": "Loyalty Pheromone",
+      "desc": "- Max Stack: 3\n- Gain the following effects next turn based on Stack at Turn End:\n1+ Stack: 1 Protection\n2+ Stack: 1 Haste\n3 Stack: 1 Clash Power Up",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultSporeBulletLong",
+      "name": "Spore Round [Base]",
+      "desc": "- Unique Ammo\n- Max Stack: 10\n- Spent when using certain Skills\n- Some attacks cancel if lacking Ammo\n- When spent, inflict 2 Spore on target On Hit",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultSporeBulletShort",
+      "name": "Spore Round [Buckshot]",
+      "desc": "- Unique Ammo\n- Max Stack: 6\n- Spent when using certain Skills\n- Some attacks cancel if lacking Ammo\n- When spent, inflict 3 Spore on target On Hit",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultSporeBulletReloading",
+      "name": "Reload [Germination]",
+      "desc": "- Effect applied to Spore Round (Unique Ammo)\n- Consume ((16 - sum of Spore Round) / 2) SP(rounded down), reset both Spore Round [Base] and Spore Round [Buckshot] to 0 Stacks, and gain them up to max Stacks",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultBeeGunLong",
+      "name": "Hornet [Rifle]",
+      "desc": "Current Mode: Hornet [Rifle]",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeursaultBeeGunShort",
+      "name": "Hornet [Shotgun]",
+      "desc": "Current Mode: Hornet [Shotgun]",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Instead of deferring the definition to its rifle-form, gaze into the core essence of \"Hornet.\"\nepoché"
+    },
+    {
+      "id": "BulletGodok",
+      "name": "Bullet - Solitude",
+      "desc": "- Unique Ammo\n- Max Capacity: 6\nSpent when using certain Skills\n\n- This Ammo's count cannot be gained or lost due to external effects",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AlriuneEGOThey",
+      "name": "Faint Aroma",
+      "desc": "- Max Stack: 30\n- Gain 1 Stack if this unit takes Sinking damage\n- Upon Tremor Burst, apply 1~2 Faint Aroma on 3 other random allies (for Abnormalities, the Part)\n- At max Stack, gain 2 Tremor and trigger Tremor Burst on self; then, take Gloom damage equal to Sinking on self and lose all Faint Aroma. Cannot gain Faint Aroma for the rest of the turn.\n- If this unit is killed, inflict (remaining Faint Aroma on this unit / 2) Faint Aroma randomly between this unit's allies (rounded down)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AlriuneEGOWe",
+      "name": "Petals",
+      "desc": "- Max Stack: 30\n- Offense Level +1 for every 10 Stack\n- Can be gained up to 15 Stacks per turn",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GodokPanicType",
+      "name": "Solitude",
+      "desc": "- Take +10% damage from Gloom Skills\n- Units with SP: Change their Panic Type to 'Solitude'\n- Units without SP: Gain +2 Sinking Count at Turn End\n\n- Turn End: Lose 1 Stack\n- This effect is not cumulative; inflicting it will replace the current value with the inflicted value\n- Apply the \"Units without SP\" conditional to certain enemies that have SP but cannot change their Panic Types\n\n※ Solitude Panic Effect:\n- Low Morale: Gain +2 Sinking Count at Turn End\n- Panic: Gain +3 Sinking Count at Turn End",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Godok_Lowmorale",
+      "name": "Solitude",
+      "desc": "- Low Morale\n- Turn End: Gain +2 Sinking Count",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Godok_Panic",
+      "name": "Solitude",
+      "desc": "- Panic\n- Turn End: Gain +3 Sinking Count",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GodokPanicType_Sub",
+      "name": "Solitude",
+      "desc": "- Take +10% damage from Gloom Skills\n- Turn End: Gain +2 Sinking Count\n\n- Turn End: Lose 1 Stack\n- This effect is not cumulative; inflicting it will replace the current value with the inflicted value",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GodokPanicType_Main",
+      "name": "Solitude",
+      "desc": "- Take +10% damage from Gloom Skills\n- Change Panic Type to 'Solitude'\n\n- Turn End: Lose 1 Stack\n- This effect is not cumulative; inflicting it will replace the current value with the inflicted value",
       "summary": "",
       "undefined": "-"
     }

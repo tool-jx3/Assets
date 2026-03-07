@@ -90,6 +90,14 @@
     {
       "id": 9119,
       "openCondition": "Clear Spring Cultivation"
+    },
+    {
+      "id": 109,
+      "openCondition": "Clear Canto 9"
+    },
+    {
+      "id": 9123,
+      "openCondition": "Clear The 8th Walpurgis Night"
     }
   ]
 }

@@ -1867,6 +1867,38 @@
     {
       "id": "introduce_sentence_234",
       "content": "It's you... You are the {0} of this forest."
+    },
+    {
+      "id": "introduce_word_235",
+      "content": "Storybook"
+    },
+    {
+      "id": "introduce_sentence_235",
+      "content": "Thus it is decided, (the) {0} for today's reading."
+    },
+    {
+      "id": "introduce_word_236",
+      "content": "Void"
+    },
+    {
+      "id": "introduce_sentence_236",
+      "content": "I'll fire into you (a) {0} that cannot be filled."
+    },
+    {
+      "id": "introduce_word_237",
+      "content": "Colony"
+    },
+    {
+      "id": "introduce_sentence_237",
+      "content": "Nngh... Defend (the) {0}."
+    },
+    {
+      "id": "introduce_word_238",
+      "content": "Harmony"
+    },
+    {
+      "id": "introduce_sentence_238",
+      "content": "Such wondrous... {0}."
     }
   ]
 }

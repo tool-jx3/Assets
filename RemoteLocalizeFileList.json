@@ -118,7 +118,11 @@
         "AbEventsResultLog-a1c9p1",
         "DanteAbilityUIText_a1c9p3",
         "UnitKeyword-a1c9p2",
-        "UnitKeyword-a1c9p3"
+        "UnitKeyword-a1c9p3",
+        "MirrorDungeonUI_7",
+        "SelectDUI",
+        "Limbus3rdAnniversary",
+        "Walpu8EventText"
     ],
     "character": [
         "Characters"
@@ -170,7 +174,9 @@
         "Enemies-a1c9p2",
         "Enemies-a1c9p3",
         "Assist-a1c9p2",
-        "Assist-a1c9p3"
+        "Assist-a1c9p3",
+        "Enemies-mirror7",
+        "Enemies-walpu8"
     ],
     "ego": [
         "Egos",
@@ -282,7 +288,9 @@
         "Skills_personality-a1c9p1",
         "Skills_personality-a1c9p2",
         "Skills_Ego_Personality-a1c9p2",
-        "Skills_Ego_Personality-a1c9p3"
+        "Skills_Ego_Personality-a1c9p3",
+        "Skills_Abnormality_Mirror7",
+        "Skills_Abnormality-walpu8"
     ],
     "passive": [
         "Passives",
@@ -359,7 +367,9 @@
         "Passives-a1c9p2",
         "Passive_Ego-a1c9p2",
         "Passive_Ego-a1c9p3",
-        "Passives-a1c9p3"
+        "Passives-a1c9p3",
+        "Passives_Abnormality-mr7",
+        "Passives_Abnormality-walpu8"
     ],
     "buf": [
         "Bufs",
@@ -400,7 +410,9 @@
         "Bufs-Refraction1BokGak",
         "Bufs-a1c9p1",
         "Bufs-a1c9p2",
-        "Bufs-a1c9p3"
+        "Bufs-a1c9p3",
+        "Bufs_Mirror7",
+        "Bufs-walpu8"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -452,7 +464,9 @@
         "BattleKeywords-Refraction1BokGak",
         "BattleKeywords-a1c9p1",
         "BattleKeywords-a1c9p2",
-        "BattleKeywords-a1c9p3"
+        "BattleKeywords-a1c9p3",
+        "BattleKeywords_Mirror7",
+        "BattleKeywords-walpu8"
     ],
     "skillTag": [
         "SkillTag"
@@ -487,7 +501,9 @@
         "AbEvents-pilgrimage",
         "AbEvents_mowe-re",
         "AbEvents-a1c9p1",
-        "AbEvents-a1c9p2"
+        "AbEvents-a1c9p2",
+        "AbEvents_Mirror7",
+        "AbEvents-walpu8"
     ],
     "abnormalityCharDlgs": [
         "AbDlg_YiSang",
@@ -563,7 +579,9 @@
         "ActionEvents-pilgrimage",
         "ActionEvents_mowe-re",
         "ActionEvents-a1c9p1",
-        "ActionEvents-a1c9p2"
+        "ActionEvents-a1c9p2",
+        "ActionEvents_Mirror7",
+        "ActionEvents-walpu8"
     ],
     "egoGifts": [
         "EGOgift_StoryDungeon",
@@ -588,7 +606,9 @@
         "EGOgift_tktRe",
         "EGOgift_cultivation",
         "EGOgift_pilgrimage",
-        "EGOgift_MirrorDungeon-mowe-re"
+        "EGOgift_MirrorDungeon-mowe-re",
+        "EGOgift_MirrorDungeon_7",
+        "EGOgift_walpu8"
     ],
     "stageChapter": [
         "StageChapterText",
@@ -633,7 +653,8 @@
         "StageNode91-21",
         "StageNode-a1c9p1",
         "StageNode-a1c9p2",
-        "StageNode-a1c9p3"
+        "StageNode-a1c9p3",
+        "StageNode91-23"
     ],
     "dungeonNodeInfo": [
         "MirrorDungeonNode1-1",
@@ -876,7 +897,10 @@
         "Voice_DonQuixote_Index_10314",
         "Voice_Ishmael_KumoMiddle_10814",
         "Voice_Sinclair_KumoPinky_11015",
-        "Voice_Gregor_LCELamp_11214"
+        "Voice_Gregor_LCELamp_11214",
+        "Voice_Yisang_KumoIndex_10115",
+        "Voice_Meursalut_LEGO_10514",
+        "Voice_Ryoshu_LEGOEcho_10414"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -924,7 +948,9 @@
         "Announcer_Ryoshu_42",
         "Announcer_PinkyChibi_41",
         "Announcer_Sode_90003",
-        "Announcer_LCDAengdu_90004"
+        "Announcer_LCDAengdu_90004",
+        "Announcer_AngelaLoR_43",
+        "Announcer_Chesed_44"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
@@ -1098,7 +1124,7 @@
         "PanicInfo-a1c9p3"
     ],
     "dungeonStartBuffs": [
-        "DungeonStartBuffs_MD6"
+        "DungeonStartBuffs_MD7"
     ],
     "egoGiftCategory": [
         "EgoGiftCategory"

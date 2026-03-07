@@ -319,6 +319,21 @@
       "id": 63,
       "name": "1호선 BokGak : Madness",
       "desc": "거울굴절철도 1호선 BokGak 클리어 시 획득"
+    },
+    {
+      "id": 67,
+      "name": "3rd Anniversary",
+      "desc": "3주년 기념 이벤트에서 획득"
+    },
+    {
+      "id": 68,
+      "name": "3rd Anniversary (Special)",
+      "desc": "3주년 기념 이벤트에서 획득"
+    },
+    {
+      "id": 69,
+      "name": "로보토미 복지팀",
+      "desc": "제8회 발푸르기스의 밤 이벤트에서 획득"
     }
   ]
 }
