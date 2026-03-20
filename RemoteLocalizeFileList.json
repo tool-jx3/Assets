@@ -119,10 +119,13 @@
         "DanteAbilityUIText_a1c9p3",
         "UnitKeyword-a1c9p2",
         "UnitKeyword-a1c9p3",
+        "SkinUI",
         "MirrorDungeonUI_7",
         "SelectDUI",
         "Limbus3rdAnniversary",
-        "Walpu8EventText"
+        "Walpu8EventText",
+        "UI_Mission_MirrorDungeon7Event",
+        "MirrorDungeonUI_7_Achievement"
     ],
     "character": [
         "Characters"
@@ -503,7 +506,8 @@
         "AbEvents-a1c9p1",
         "AbEvents-a1c9p2",
         "AbEvents_Mirror7",
-        "AbEvents-walpu8"
+        "AbEvents-walpu8",
+        "AbEvents_lcbcheckup-re"
     ],
     "abnormalityCharDlgs": [
         "AbDlg_YiSang",
@@ -581,7 +585,8 @@
         "ActionEvents-a1c9p1",
         "ActionEvents-a1c9p2",
         "ActionEvents_Mirror7",
-        "ActionEvents-walpu8"
+        "ActionEvents-walpu8",
+        "ActionEvents_lcbcheckup-re"
     ],
     "egoGifts": [
         "EGOgift_StoryDungeon",
@@ -608,7 +613,8 @@
         "EGOgift_pilgrimage",
         "EGOgift_MirrorDungeon-mowe-re",
         "EGOgift_MirrorDungeon_7",
-        "EGOgift_walpu8"
+        "EGOgift_walpu8",
+        "EGOgift_lcbcheckup-re"
     ],
     "stageChapter": [
         "StageChapterText",
@@ -654,7 +660,8 @@
         "StageNode-a1c9p1",
         "StageNode-a1c9p2",
         "StageNode-a1c9p3",
-        "StageNode91-23"
+        "StageNode91-23",
+        "StageNode91-24"
     ],
     "dungeonNodeInfo": [
         "MirrorDungeonNode1-1",
@@ -675,7 +682,8 @@
         "DungeonNode91-18",
         "DungeonNode1-8",
         "DungeonNode91-20",
-        "DungeonNode91-21"
+        "DungeonNode91-21",
+        "DungeonNode91-24"
     ],
     "railwayDungeonNodeInfo": [
         "RailwayDungeonNode1-1",
@@ -900,7 +908,8 @@
         "Voice_Gregor_LCELamp_11214",
         "Voice_Yisang_KumoIndex_10115",
         "Voice_Meursalut_LEGO_10514",
-        "Voice_Ryoshu_LEGOEcho_10414"
+        "Voice_Ryoshu_LEGOEcho_10414",
+        "Voice_Gregor_LCE_11215"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -950,7 +959,8 @@
         "Announcer_Sode_90003",
         "Announcer_LCDAengdu_90004",
         "Announcer_AngelaLoR_43",
-        "Announcer_Chesed_44"
+        "Announcer_Chesed_44",
+        "Announcer_LCE_45"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
@@ -1085,7 +1095,8 @@
         "StoryTheaterDanteNoteDetail_7",
         "StoryTheaterDanteNoteDetail_8",
         "StoryTheaterDanteNoteDetail_9",
-        "StoryTheaterDanteNoteDetail_10"
+        "StoryTheaterDanteNoteDetail_10",
+        "StoryTheaterDanteNoteDetail_11"
     ],
     "danteNoteCategoryKeyword": [
         "StoryTheaterDanteNote",
@@ -1097,7 +1108,8 @@
         "StoryTheaterDanteNote_7",
         "StoryTheaterDanteNote_8",
         "StoryTheaterDanteNote_9",
-        "StoryTheaterDanteNote_10"
+        "StoryTheaterDanteNote_10",
+        "StoryTheaterDanteNote_11"
     ],
     "panicInfo": [
         "PanicInfo",
