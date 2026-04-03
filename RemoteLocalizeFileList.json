@@ -125,14 +125,17 @@
         "Limbus3rdAnniversary",
         "Walpu8EventText",
         "UI_Mission_MirrorDungeon7Event",
-        "MirrorDungeonUI_7_Achievement"
+        "MirrorDungeonUI_7_Achievement",
+        "UI_x1p1c1",
+        "UnitKeyword-x1p1c1"
     ],
     "character": [
         "Characters"
     ],
     "personality": [
         "Personalities",
-        "Personalities-a1c9p2"
+        "Personalities-a1c9p2",
+        "Personalities-x1p1c1"
     ],
     "enemy": [
         "Enemies",
@@ -179,7 +182,8 @@
         "Assist-a1c9p2",
         "Assist-a1c9p3",
         "Enemies-mirror7",
-        "Enemies-walpu8"
+        "Enemies-walpu8",
+        "Enemies-x1p1c1"
     ],
     "ego": [
         "Egos",
@@ -293,7 +297,10 @@
         "Skills_Ego_Personality-a1c9p2",
         "Skills_Ego_Personality-a1c9p3",
         "Skills_Abnormality_Mirror7",
-        "Skills_Abnormality-walpu8"
+        "Skills_Abnormality-walpu8",
+        "Skills_Abnormality-x1p1c1",
+        "Skills_Enemy-x1p1c1",
+        "Skills_personality-x1p1c1"
     ],
     "passive": [
         "Passives",
@@ -372,7 +379,10 @@
         "Passive_Ego-a1c9p3",
         "Passives-a1c9p3",
         "Passives_Abnormality-mr7",
-        "Passives_Abnormality-walpu8"
+        "Passives_Abnormality-walpu8",
+        "Passives_Abnormality-x1p1c1",
+        "Passives_Enemy-x1p1c1",
+        "Passives-x1p1c1"
     ],
     "buf": [
         "Bufs",
@@ -415,7 +425,8 @@
         "Bufs-a1c9p2",
         "Bufs-a1c9p3",
         "Bufs_Mirror7",
-        "Bufs-walpu8"
+        "Bufs-walpu8",
+        "Bufs-x1p1c1"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -427,7 +438,8 @@
         "Items-a1c7p3",
         "Items-fools",
         "Items-a1c8p1",
-        "Items-a1c9p1"
+        "Items-a1c9p1",
+        "Items-x1p1c1"
     ],
     "keyword": [
         "BattleKeywords",
@@ -469,7 +481,8 @@
         "BattleKeywords-a1c9p2",
         "BattleKeywords-a1c9p3",
         "BattleKeywords_Mirror7",
-        "BattleKeywords-walpu8"
+        "BattleKeywords-walpu8",
+        "BattleKeywords-x1p1c1"
     ],
     "skillTag": [
         "SkillTag"
@@ -586,7 +599,8 @@
         "ActionEvents-a1c9p2",
         "ActionEvents_Mirror7",
         "ActionEvents-walpu8",
-        "ActionEvents_lcbcheckup-re"
+        "ActionEvents_lcbcheckup-re",
+        "ActionEvents-x1p1c1"
     ],
     "egoGifts": [
         "EGOgift_StoryDungeon",
@@ -614,7 +628,8 @@
         "EGOgift_MirrorDungeon-mowe-re",
         "EGOgift_MirrorDungeon_7",
         "EGOgift_walpu8",
-        "EGOgift_lcbcheckup-re"
+        "EGOgift_lcbcheckup-re",
+        "EGOgift_MirrorDungeon-x1p1c1"
     ],
     "stageChapter": [
         "StageChapterText",
@@ -715,7 +730,8 @@
     "announcer": [
         "Announcer",
         "Announcer-m4d1",
-        "Announcer-a1c9p3"
+        "Announcer-a1c9p3",
+        "Announcer-x1p1c1"
     ],
     "normalBattleHint": [
         "BattleHint_NormalBattle"
@@ -909,7 +925,9 @@
         "Voice_Yisang_KumoIndex_10115",
         "Voice_Meursalut_LEGO_10514",
         "Voice_Ryoshu_LEGOEcho_10414",
-        "Voice_Gregor_LCE_11215"
+        "Voice_Gregor_LCE_11215",
+        "Voice_Faust_KumoRings_10215",
+        "Voice_Honglu_KumoRings_10614"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -960,7 +978,10 @@
         "Announcer_LCDAengdu_90004",
         "Announcer_AngelaLoR_43",
         "Announcer_Chesed_44",
-        "Announcer_LCE_45"
+        "Announcer_LCE_45",
+        "Announcer_X1P1C1_90005",
+        "Announcer_X1P1C1_90006",
+        "Announcer_X1P1C1_90007"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
@@ -1133,7 +1154,8 @@
         "PanicInfo-pilgrimage",
         "PanicInfo-a1c9p1",
         "PanicInfo-a1c9p2",
-        "PanicInfo-a1c9p3"
+        "PanicInfo-a1c9p3",
+        "PanicInfo-x1p1c1"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs_MD7"
