@@ -127,7 +127,8 @@
         "UI_Mission_MirrorDungeon7Event",
         "MirrorDungeonUI_7_Achievement",
         "UI_x1p1c1",
-        "UnitKeyword-x1p1c1"
+        "UnitKeyword-x1p1c1",
+        "TwiningThreadsEvent"
     ],
     "character": [
         "Characters"
@@ -183,7 +184,9 @@
         "Assist-a1c9p3",
         "Enemies-mirror7",
         "Enemies-walpu8",
-        "Enemies-x1p1c1"
+        "Enemies-x1p1c1",
+        "Enemies-twth",
+        "Assist-twth"
     ],
     "ego": [
         "Egos",
@@ -300,7 +303,10 @@
         "Skills_Abnormality-walpu8",
         "Skills_Abnormality-x1p1c1",
         "Skills_Enemy-x1p1c1",
-        "Skills_personality-x1p1c1"
+        "Skills_personality-x1p1c1",
+        "Skills_Enemy-twth",
+        "Skills_Abnormality-twth",
+        "Skills_Assist-twth"
     ],
     "passive": [
         "Passives",
@@ -382,7 +388,10 @@
         "Passives_Abnormality-walpu8",
         "Passives_Abnormality-x1p1c1",
         "Passives_Enemy-x1p1c1",
-        "Passives-x1p1c1"
+        "Passives-x1p1c1",
+        "Passives_Enemy-twth",
+        "Passives_Abnormality-twth",
+        "Passives_Assist-twth"
     ],
     "buf": [
         "Bufs",
@@ -426,7 +435,8 @@
         "Bufs-a1c9p3",
         "Bufs_Mirror7",
         "Bufs-walpu8",
-        "Bufs-x1p1c1"
+        "Bufs-x1p1c1",
+        "Bufs-twth"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -482,7 +492,8 @@
         "BattleKeywords-a1c9p3",
         "BattleKeywords_Mirror7",
         "BattleKeywords-walpu8",
-        "BattleKeywords-x1p1c1"
+        "BattleKeywords-x1p1c1",
+        "BattleKeywords-twth"
     ],
     "skillTag": [
         "SkillTag"
@@ -520,7 +531,8 @@
         "AbEvents-a1c9p2",
         "AbEvents_Mirror7",
         "AbEvents-walpu8",
-        "AbEvents_lcbcheckup-re"
+        "AbEvents_lcbcheckup-re",
+        "AbEvents_twth"
     ],
     "abnormalityCharDlgs": [
         "AbDlg_YiSang",
@@ -600,7 +612,8 @@
         "ActionEvents_Mirror7",
         "ActionEvents-walpu8",
         "ActionEvents_lcbcheckup-re",
-        "ActionEvents-x1p1c1"
+        "ActionEvents-x1p1c1",
+        "ActionEvents_twth"
     ],
     "egoGifts": [
         "EGOgift_StoryDungeon",
@@ -629,7 +642,8 @@
         "EGOgift_MirrorDungeon_7",
         "EGOgift_walpu8",
         "EGOgift_lcbcheckup-re",
-        "EGOgift_MirrorDungeon-x1p1c1"
+        "EGOgift_MirrorDungeon-x1p1c1",
+        "EGOgift_TwiningThreads"
     ],
     "stageChapter": [
         "StageChapterText",
@@ -676,7 +690,8 @@
         "StageNode-a1c9p2",
         "StageNode-a1c9p3",
         "StageNode91-23",
-        "StageNode91-24"
+        "StageNode91-24",
+        "StageNode91-25"
     ],
     "dungeonNodeInfo": [
         "MirrorDungeonNode1-1",
@@ -742,7 +757,8 @@
     "battleResultHint": [
         "BattleResultHint-a1c9p1",
         "BattleResultHint-a1c9p2",
-        "BattleResultHint-a1c9p3"
+        "BattleResultHint-a1c9p3",
+        "BattleResultHint-twth"
     ],
     "tutorialDesc": [
         "TutorialDesc",
@@ -927,7 +943,9 @@
         "Voice_Ryoshu_LEGOEcho_10414",
         "Voice_Gregor_LCE_11215",
         "Voice_Faust_KumoRings_10215",
-        "Voice_Honglu_KumoRings_10614"
+        "Voice_Honglu_KumoRings_10614",
+        "Voice_Meursault_Rings_10515",
+        "Voice_Rodion_Rings_10915"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -981,7 +999,8 @@
         "Announcer_LCE_45",
         "Announcer_X1P1C1_90005",
         "Announcer_X1P1C1_90006",
-        "Announcer_X1P1C1_90007"
+        "Announcer_X1P1C1_90007",
+        "Announcer_Kira_46"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
@@ -1005,7 +1024,8 @@
       "BattleSpeechBubbleDlg_mowe",
       "BattleSpeechBubbleDlg-a1c9p1",
       "BattleSpeechBubbleDlg-a1c9p2",
-      "BattleSpeechBubbleDlg-a1c9p3"
+      "BattleSpeechBubbleDlg-a1c9p3",
+      "BattleSpeechBubbleDlg-twth"
     ],
     "iapProduct": [
         "IAPProduct",
@@ -1117,7 +1137,8 @@
         "StoryTheaterDanteNoteDetail_8",
         "StoryTheaterDanteNoteDetail_9",
         "StoryTheaterDanteNoteDetail_10",
-        "StoryTheaterDanteNoteDetail_11"
+        "StoryTheaterDanteNoteDetail_11",
+        "StoryTheaterDanteNoteDetail_12"
     ],
     "danteNoteCategoryKeyword": [
         "StoryTheaterDanteNote",
@@ -1130,7 +1151,8 @@
         "StoryTheaterDanteNote_8",
         "StoryTheaterDanteNote_9",
         "StoryTheaterDanteNote_10",
-        "StoryTheaterDanteNote_11"
+        "StoryTheaterDanteNote_11",
+        "StoryTheaterDanteNote_12"
     ],
     "panicInfo": [
         "PanicInfo",
@@ -1155,7 +1177,8 @@
         "PanicInfo-a1c9p1",
         "PanicInfo-a1c9p2",
         "PanicInfo-a1c9p3",
-        "PanicInfo-x1p1c1"
+        "PanicInfo-x1p1c1",
+        "PanicInfo-twth"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs_MD7"
