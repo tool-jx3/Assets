@@ -1802,7 +1802,7 @@
     },
     {
       "id": "introduce_sentence_226",
-      "content": "戦術視野展開。{0}の目へ。"
+      "content": "戦術視野展開。{0}の目をもって。"
     },
     {
       "id": "introduce_word_227",
@@ -1947,6 +1947,206 @@
     {
       "id": "introduce_sentence_244",
       "content": "どこでも見られない{0}で。"
+    },
+    {
+      "id": "introduce_word_245",
+      "content": "フサフサ"
+    },
+    {
+      "id": "introduce_sentence_245",
+      "content": "ふむ…どうだ、もっと{0}に見えるだろ？"
+    },
+    {
+      "id": "introduce_word_246",
+      "content": "大騒ぎ"
+    },
+    {
+      "id": "introduce_sentence_246",
+      "content": "見てよ、この子たちが君に付いていきたいって…こんなに{0}してるじゃない。"
+    },
+    {
+      "id": "introduce_word_247",
+      "content": "蜘蛛の糸"
+    },
+    {
+      "id": "introduce_sentence_247",
+      "content": "自由になれない。この{0}を断ち切らずには…。"
+    },
+    {
+      "id": "introduce_word_248",
+      "content": "伝説の剣"
+    },
+    {
+      "id": "introduce_sentence_248",
+      "content": "少しくらい疑われたところで何だというんだ？この{0}が…私の手に入ったんだ。"
+    },
+    {
+      "id": "introduce_word_249",
+      "content": "剣契"
+    },
+    {
+      "id": "introduce_sentence_249",
+      "content": "ですから…今、{0}を名乗るにふさわしい者は、私一人だけなのでしょうね。"
+    },
+    {
+      "id": "introduce_word_250",
+      "content": "ノビ"
+    },
+    {
+      "id": "introduce_sentence_250",
+      "content": "僕をお呼びになったってことは…。あはぁ、{0}が逃げたんですね？"
+    },
+    {
+      "id": "introduce_word_251",
+      "content": "陰"
+    },
+    {
+      "id": "introduce_sentence_251",
+      "content": "…影なき陽光は無き故に、この{0}もまた厭わず引き受けるのみ。"
+    },
+    {
+      "id": "introduce_word_252",
+      "content": "パレルモ"
+    },
+    {
+      "id": "introduce_sentence_252",
+      "content": "一対一の決闘なら、{0}を修めた僕が有利です。"
+    },
+    {
+      "id": "introduce_word_253",
+      "content": "戦争"
+    },
+    {
+      "id": "introduce_sentence_253",
+      "content": "邪魔だから、どきな。チッ。これだから{0}にも出たことない若造は…。"
+    },
+    {
+      "id": "introduce_word_254",
+      "content": "ホームパーティー"
+    },
+    {
+      "id": "introduce_sentence_254",
+      "content": "{0}はできなくなりそうですね。"
+    },
+    {
+      "id": "introduce_word_255",
+      "content": "双和茶"
+    },
+    {
+      "id": "introduce_sentence_255",
+      "content": "儂の頃は…こんな香り高い{0}の匂いなど夢にも見れなかったな。"
+    },
+    {
+      "id": "introduce_word_256",
+      "content": "訃報"
+    },
+    {
+      "id": "introduce_sentence_256",
+      "content": "{0}を伝えん。"
+    },
+    {
+      "id": "introduce_word_257",
+      "content": "行先"
+    },
+    {
+      "id": "introduce_sentence_257",
+      "content": "{0}は定まりたり。"
+    },
+    {
+      "id": "introduce_word_258",
+      "content": "ともだち"
+    },
+    {
+      "id": "introduce_sentence_258",
+      "content": "{0}だ！{0}が来た！"
+    },
+    {
+      "id": "introduce_word_259",
+      "content": "依頼"
+    },
+    {
+      "id": "introduce_sentence_259",
+      "content": "{0}のオーバーブッキングは禁止されていますので～。"
+    },
+    {
+      "id": "introduce_word_260",
+      "content": "捕獲"
+    },
+    {
+      "id": "introduce_sentence_260",
+      "content": "{0}手順を続行、続行！このまま続行ォ！！"
+    },
+    {
+      "id": "introduce_word_261",
+      "content": "ル・ノワール"
+    },
+    {
+      "id": "introduce_sentence_261",
+      "content": "{0}の美学は節制から始まる。"
+    },
+    {
+      "id": "introduce_word_262",
+      "content": "ル・ルージュ"
+    },
+    {
+      "id": "introduce_sentence_262",
+      "content": "より多くのお客様が{0}のファッションに熱狂するように！"
+    },
+    {
+      "id": "introduce_word_263",
+      "content": "生地"
+    },
+    {
+      "id": "introduce_sentence_263",
+      "content": "上質な{0}が欲しいなら、待つ時間を持ってもらわないとね。"
+    },
+    {
+      "id": "introduce_word_264",
+      "content": "手"
+    },
+    {
+      "id": "introduce_sentence_264",
+      "content": "近づくな、僕に{0}を差し伸べるな！！"
+    },
+    {
+      "id": "introduce_word_265",
+      "content": "虚像"
+    },
+    {
+      "id": "introduce_sentence_265",
+      "content": "私の空っぽの{0}の中へ。"
+    },
+    {
+      "id": "introduce_word_266",
+      "content": "正義"
+    },
+    {
+      "id": "introduce_sentence_266",
+      "content": "道を開けよ。さすれば、そなたらの{0}を疑いはせぬ。"
+    },
+    {
+      "id": "introduce_word_267",
+      "content": "灰色"
+    },
+    {
+      "id": "introduce_sentence_267",
+      "content": "人は消え去り、ただ{0}のみが残らん。"
+    },
+    {
+      "id": "introduce_word_268",
+      "content": "眩しさ"
+    },
+    {
+      "id": "introduce_sentence_268",
+      "content": "弾丸は黒点に狙いを定め、{0}の中で貫け。"
+    },
+    {
+      "id": "introduce_word_269",
+      "content": "百貨店"
+    },
+    {
+      "id": "introduce_sentence_269",
+      "content": "僕たちは、僕は、{0}の全てを食らい尽くす。もう誰一人として飢えることのないように。"
     }
   ]
 }

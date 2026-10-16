@@ -197,10 +197,6 @@
       "name": "[マッチ可能反撃]"
     },
     {
-      "id": "CantBreak",
-      "name": "[破壊不能コイン]"
-    },
-    {
       "id": "DuelGuard",
       "name": "[マッチ可能ガード]"
     },
@@ -246,7 +242,7 @@
     },
     {
       "id": "BeforeHit",
-      "name": "[被ダメージ直前]"
+      "name": "[被撃直前]"
     },
     {
       "id": "OnDirectAttack",
@@ -267,6 +263,38 @@
     {
       "id": "BeforeBehavior",
       "name": "[行動開始前]"
+    },
+    {
+      "id": "AlwaysUseEGOPassive2050911",
+      "name": "[剣契頭目 ムルソー専用 常時効果]"
+    },
+    {
+      "id": "WhenUseEGOPassive",
+      "name": "[使用効果]"
+    },
+    {
+      "id": "WinDuelEndSkill",
+      "name": "[マッチ勝利後の攻撃終了時]"
+    },
+    {
+      "id": "WhenUseEGOPassive2010911",
+      "name": "[ロボトミーE.G.O::厳粛な哀悼イサン 専用効果]"
+    },
+    {
+      "id": "AlwaysUseEGOPassive2010911",
+      "name": "[ロボトミーE.G.O::厳粛な哀悼イサン 専用常時効果]"
+    },
+    {
+      "id": "AlwaysUseEGOPassive",
+      "name": "[常時効果]"
+    },
+    {
+      "id": "CoinHead",
+      "name": "[表面]"
+    },
+    {
+      "id": "CoinTail",
+      "name": "[裏面]"
     }
   ]
 }

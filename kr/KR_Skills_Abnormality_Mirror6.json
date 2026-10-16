@@ -606,7 +606,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 24부여"
+                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 1 증가"
@@ -619,7 +619,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                  "desc": "[OnSucceedAttack] [Laceration] 4 부여"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 1 증가"
@@ -1139,20 +1139,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                  "desc": ""
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[BulletPropellant] 1 소모"
-                },
-                {
-                  "desc": "[OnSucceedAttack] [Combustion] 3 부여"
-                },
-                {
-                  "desc": "[OnSucceedAttack] [Combustion] 횟수 3 증가"
+                  "desc": ""
                 }
               ]
             }

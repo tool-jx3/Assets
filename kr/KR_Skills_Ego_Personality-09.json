@@ -230,9 +230,9 @@
                 {
                   "desc": "[OnSucceedAttack] 대상에게 정신력 20 피해"
                 },
-              {
-                "desc": "[OnSucceedAttackTail] 대상이 흐트러지거나 사망한 경우 자신의 정신력 5 회복"
-              }
+                {
+                  "desc": "[OnSucceedAttackTail] 대상이 흐트러지거나 사망한 경우 자신의 정신력 5 회복"
+                }
               ]
             }
           ]
@@ -572,8 +572,7 @@
                 }
               ]
             },
-            {
-            }
+            {}
           ]
         },
         {
@@ -592,8 +591,7 @@
                 }
               ]
             },
-            {
-            }
+            {}
           ]
         },
         {
@@ -612,8 +610,7 @@
                 }
               ]
             },
-            {
-            }
+            {}
           ]
         }
       ]
@@ -721,6 +718,455 @@
                 },
                 {
                   "desc": "[EnemyKill] 현재 체력 비율이 가장 낮은 아군 (1 + 최대 공명 수)명에게 [CrimsonResultUp] 1, [CrimsonDamageUp] 1 부여 (최대 <style=\"highlight\">6</style>명, 스킬당 1회)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "노을 속으로",
+          "abName": "노을 나그네",
+          "desc": "[EndSkill] 현재 체력 비율이 가장 낮은 아군 2명의 체력을 최대 체력의 5%만큼 회복하고 [ScarletMothRodion] 2 부여 (최소 체력 회복량: 1)\n- (색욕 공명 수 - 1) 만큼 회복 대상 수 증가 (최대 2명)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "노을 속으로",
+          "abName": "노을 나그네",
+          "desc": "<style=\"highlight\">[WhenUse] 모든 대상의 [Combustion]과 [Laceration]의 합 6당 합 위력 +1 (최대 2)</style>\n[EndSkill] 현재 체력 비율이 가장 낮은 아군 2명의 체력을 최대 체력의 <style=\"highlight\">8%</style>만큼 회복하고 [ScarletMothRodion] 2 부여 (최소 체력 회복량: 1)\n- (색욕 공명 수 - 1) 만큼 회복 대상 수 증가 (최대 2명)\n<style=\"highlight\">- 회복 대상이 색욕 속성 스킬을 장착했으면, 정신력 3 회복</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] <style=\"highlight\">3</style> 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] <style=\"highlight\">3</style> 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "노을 속으로",
+          "abName": "노을 나그네",
+          "desc": "[WhenUse] 모든 대상의 [Combustion]과 [Laceration]의 합 6당 합 위력 +1 (최대 2)\n[EndSkill] 현재 체력 비율이 가장 낮은 아군 2명의 체력을 최대 체력의 <style=\"highlight\">10%</style>만큼 회복하고 [ScarletMothRodion] 2 부여 (최소 체력 회복량: 1)\n- (색욕 공명 수 - 1) 만큼 회복 대상 수 증가 (최대 2명)\n- 회복 대상이 색욕 속성 스킬을 장착했으면, 정신력 <style=\"highlight\">6</style> 회복",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 3 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 3 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndCoin] 적중한 대상에게 다음 턴에 [CrimsonTakeDamageUp] 1, [ScarletTakeDamageUp] 1 부여</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "노을 속으로",
+          "abName": "노을 나그네",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 모든 대상의 [Combustion]과 [Laceration]의 합 4당 피해량 +5% (최대 15%)\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -6 (최대 -12)\n[EndSkill] 무작위 아군에게 [ScarletMothRodion] 1씩 3번 부여",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                },
+                {
+                  "desc": "[EndCoin] 적중한 대상에게 다음 턴에 [CrimsonTakeDamageUp] 1 부여 (턴당 1회)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[EndCoin] 적중한 대상에게 다음 턴에 [ScarletTakeDamageUp] 1 부여 (턴당 1회)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "노을 속으로",
+          "abName": "노을 나그네",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 모든 대상의 [Combustion]과 [Laceration]의 합 4당 피해량 +5% (최대 15%)\n<style=\"highlight\">- 분노 완전 공명이나 색욕 완전 공명이 있으면, 추가로 피해량 +10%</style>\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -6 (최대 -12)\n[EndSkill] 무작위 아군에게 [ScarletMothRodion] 1씩 <style=\"highlight\">4번</style> 부여",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] <style=\"highlight\">2</style> 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 1 증가"
+                },
+                {
+                  "desc": "[EndCoin] 적중한 대상에게 다음 턴에 [CrimsonTakeDamageUp] 1 부여 (턴당 1회)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] <style=\"highlight\">2</style> 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[EndCoin] 적중한 대상에게 다음 턴에 [ScarletTakeDamageUp] 1 부여 (턴당 1회)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "노을 속으로",
+          "abName": "노을 나그네",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 모든 대상의 [Combustion]과 [Laceration]의 합 4당 피해량 <style=\"highlight\">+10% (최대 30%)</style>\n- 분노 완전 공명이나 색욕 완전 공명이 있으면, 추가로 피해량 <style=\"highlight\">+20%</style>\n[BeforeAttack] 파괴된 코인 수당 기본 위력 <style=\"highlight\">-5 (최대 -10)</style>\n[EndSkill] 무작위 아군에게 [ScarletMothRodion] 1씩 <style=\"highlight\">5번</style> 부여",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 2 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Combustion] 횟수 <style=\"highlight\">2</style> 증가"
+                },
+                {
+                  "desc": "[EndCoin] 적중한 대상에게 다음 턴에 [CrimsonTakeDamageUp] 1 부여 (턴당 1회)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Laceration] 횟수 <style=\"highlight\">2</style> 증가"
+                },
+                {
+                  "desc": "[EndCoin] 적중한 대상에게 다음 턴에 [ScarletTakeDamageUp] 1 부여 (턴당 1회)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2091011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "거울촉각",
+          "abName": "길 잃은 마음",
+          "desc": "자신의 [Breath] 위력과 메인 타겟의 [Vibration] 위력의 합 6당, 합 위력 +1 (최대 2)\n[BeforeAttack] (2 + 최대 공명 수)만큼 [Breath] 얻음 (최대 8)\n[BeforeAttack] 자신의 [Breath] 횟수 2 증가\n[EndSkill] 공격 대상 중 무작위 적에게 (1 + 최대 공명 수)만큼 [EmpathicDistressAlly]을 1씩 나누어 부여 (최대 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [AttackDown] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "거울촉각",
+          "abName": "길 잃은 마음",
+          "desc": "자신의 [Breath] 위력과 메인 타겟의 [Vibration] 위력의 합 6당, 합 위력 +1 (최대 <style=\"highlight\">3</style>)\n[BeforeAttack] (<style=\"highlight\">3</style> + 최대 공명 수)만큼 [Breath] 얻음 (최대 8)\n[BeforeAttack] 자신의 [Breath] 횟수 <style=\"highlight\">3</style> 증가\n[EndSkill] 공격 대상 중 무작위 적에게 (1 + 최대 공명 수)만큼 [EmpathicDistressAlly]을 1씩 나누어 부여 (최대 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">3</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 <style=\"highlight\">2</style> 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [AttackDown] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "거울촉각",
+          "abName": "길 잃은 마음",
+          "desc": "자신의 [Breath] 위력과 메인 타겟의 [Vibration] 위력의 합 6당, 합 위력 +1 (최대 <style=\"highlight\">4</style>)\n[BeforeAttack] (<style=\"highlight\">4</style> + 최대 공명 수)만큼 [Breath] 얻음 (최대 8)\n[BeforeAttack] 자신의 [Breath] 횟수 <style=\"highlight\">4</style> 증가\n[EndSkill] 공격 대상 중 무작위 적에게 (1 + 최대 공명 수)만큼 [EmpathicDistressAlly]을 1씩 나누어 부여 (최대 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">4</style> 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 <style=\"highlight\">3</style> 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [AttackDown] 2 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2091021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "거울촉각",
+          "abName": "길 잃은 마음",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n자신의 [Breath] 위력과 메인 타겟의 [Vibration] 위력의 합 6당, 합 위력 +1 (최대 2)\n[BeforeAttack] (2 + 최대 공명 수)만큼 [Breath] 얻음 (최대 10)\n[BeforeAttack] 자신의 [Breath] 횟수 2 증가\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -4 (최대 -12)\n[BeforeAttack] 자신의 [Breath] 횟수가 10 이상이면, 자신의 [Breath] 횟수를 4 소모하고, 메인 타겟에게 가하는 크리티컬 피해량 +20%\n[EndSkill] 공격 대상 중 무작위 적에게 (1 + 최대 공명 수)만큼 [EmpathicDistressAlly]을 1씩 나누어 부여 (최대 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 3 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수가 4 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수가 4 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [AttackDown] 3 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "거울촉각",
+          "abName": "길 잃은 마음",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n자신의 [Breath] 위력과 메인 타겟의 [Vibration] 위력의 합 6당, 합 위력 +1 (최대 <style=\"highlight\">3</style>)\n[BeforeAttack] (<style=\"highlight\">3</style> + 최대 공명 수)만큼 [Breath] 얻음 (최대 10)\n[BeforeAttack] 자신의 [Breath] 횟수 <style=\"highlight\">3</style> 증가\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -4 (최대 -12)\n[BeforeAttack] 자신의 [Breath] 횟수가 10 이상이면, 자신의 [Breath] 횟수를 4 소모하고, 메인 타겟에게 가하는 크리티컬 피해량 +<style=\"highlight\">30</style>%\n[EndSkill] 공격 대상 중 무작위 적에게 (1 + 최대 공명 수)만큼 [EmpathicDistressAlly]을 1씩 나누어 부여 (최대 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">4</style> 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수가 4 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수가 4 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] [Vibration] 횟수 1 증가</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [AttackDown] 3 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "거울촉각",
+          "abName": "길 잃은 마음",
+          "desc": "[CantIdentify]\n무작위 대상 공격\n자신의 [Breath] 위력과 메인 타겟의 [Vibration] 위력의 합 6당, 합 위력 +1 (최대 <style=\"highlight\">4</style>)\n[BeforeAttack] (<style=\"highlight\">4</style> + 최대 공명 수)만큼 [Breath] 얻음 (최대 10)\n[BeforeAttack] 자신의 [Breath] 횟수 <style=\"highlight\">4</style> 증가\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -4 (최대 -12)\n[BeforeAttack] 자신의 [Breath] 횟수가 10 이상이면, 자신의 [Breath] 횟수를 4 소모하고, 메인 타겟에게 가하는 크리티컬 피해량 +<style=\"highlight\">40</style>%\n[EndSkill] 공격 대상 중 무작위 적에게 (1 + 최대 공명 수)만큼 [EmpathicDistressAlly]을 1씩 나누어 부여 (최대 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] <style=\"highlight\">5</style> 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수가 4 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 대상의 [Vibration] 횟수가 4 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 <style=\"highlight\">2</style> 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [AttackDown] 3 부여<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
                 }
               ]
             }

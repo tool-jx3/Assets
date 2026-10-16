@@ -74,6 +74,66 @@
       "id": "battle_erosion_20508_1",
       "desc": "E.G.O侵蝕",
       "dlg": "圧縮、圧縮。蒸気逆流無視…無視不能。過去侵食、記憶侵食。使用者へ時間逆流、ぐっ…理解…不能…。"
+    },
+    {
+      "id": "battle_awaken_20509_1",
+      "desc": "E.G.O発動",
+      "dlg": "望月斬項！その息、ここに絶えよ！"
+    },
+    {
+      "id": "battle_awaken_20509_2",
+      "desc": "E.G.O発動",
+      "dlg": "望月斬項！"
+    },
+    {
+      "id": "battle_awaken_20509_3",
+      "desc": "E.G.O発動",
+      "dlg": "その息、ここに絶えよ！"
+    },
+    {
+      "id": "battle_erosion_20509_1",
+      "desc": "E.G.O侵蝕",
+      "dlg": ""
+    },
+    {
+      "id": "battle_erosion_20509_2",
+      "desc": "E.G.O侵蝕",
+      "dlg": "斬殺！"
+    },
+    {
+      "id": "battle_awaken_20510_1",
+      "desc": "E.G.O発動",
+      "dlg": "一発の銃声。明滅する視界の中、暗い夜へ向けて…弾丸は、他者の視線と交わらん。"
+    },
+    {
+      "id": "battle_awaken_20510_2",
+      "desc": "E.G.O発動",
+      "dlg": "一発の銃声。明滅する視界の中、暗い夜へ向けて…弾丸は、"
+    },
+    {
+      "id": "battle_awaken_20510_3",
+      "desc": "E.G.O発動",
+      "dlg": "他者の視線と交わらん。"
+    },
+    {
+      "id": "battle_erosion_20510_1",
+      "desc": "E.G.O侵蝕",
+      "dlg": "アン・ジュ(En joue)、銃口は人の頭へ。"
+    },
+    {
+      "id": "battle_erosion_20510_2",
+      "desc": "E.G.O侵蝕",
+      "dlg": "弾丸は黒点に狙いを定め、"
+    },
+    {
+      "id": "battle_erosion_20510_3",
+      "desc": "E.G.O侵蝕",
+      "dlg": "眩しさの中で貫け。"
+    },
+    {
+      "id": "battle_awaken_20501_2",
+      "desc": "E.G.O発動",
+      "dlg": "数多の視線が絶え間なく締め付けてこようとも…私は快く…！"
     }
   ]
 }

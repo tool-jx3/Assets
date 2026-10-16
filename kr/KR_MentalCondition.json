@@ -114,6 +114,26 @@
       "id": "OnSucceedAttackAsTargetHasIndexPrescriptTargetToPersonality",
       "add": "검지의 지령 대상에게 공격이 적중하였다면, 턴 종료 시 정신력 {0} 증가",
       "min": "검지의 지령 대상에게 공격이 적중하였다면, 턴 종료 시 정신력 {0} 감소"
+    },
+    {
+      "id": "OnUseSkillMp",
+      "add": "스킬 사용 시 {0} 증가",
+      "min": "스킬 사용 시 {0} 감소"
+    },
+    {
+      "id": "OnEndAttackMp",
+      "add": "공격 종료 시 {0} 증가",
+      "min": "공격 종료 시 {0} 감소"
+    },
+    {
+      "id": "OnGiveNegativeBuffStackToEnemy",
+      "add": "적에게 부정적인 효과 위력을 {0} 부여 할 때 마다 정신력 {1} 증가",
+      "min": "적에게 부정적인 효과 위력을 {0} 부여 할 때 마다 정신력 {1} 감소"
+    },
+    {
+      "id": "OnLoseDuelToSlowerEnemyAsParryingCountMultiplyAndPlusPercent",
+      "add": "자신보다 느린 적에게 합 패배 시 합 횟수에 비례하여 증가\n<size=95%>(증가량: 기본 값 {0}, 2합부터 1합당 {1}%씩 증가)</size>",
+      "min": "자신보다 느린 적에게 합 패배 시 합 횟수에 비례하여 감소\n<size=95%>(감소량: 기본 값 {0}, 2합부터 1합당 {1}%씩 증가)</size>"
     }
   ]
 }

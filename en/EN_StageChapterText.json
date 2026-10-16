@@ -247,6 +247,33 @@
       "chapterNumber": "9.5",
       "chaptertitle": "Twining Threads",
       "timeline": "985-02"
+    },
+    {
+      "id": "chapter_n_9127",
+      "company": "N Corp.",
+      "area": "District 14",
+      "chapter": "Intervallo VII",
+      "chapterNumber": "9.5",
+      "chaptertitle": "Mnestic Experience",
+      "timeline": "985-03"
+    },
+    {
+      "id": "chapter_n_110",
+      "company": "N Corp.",
+      "area": "District 14",
+      "chapter": "Canto X",
+      "chapterNumber": "10",
+      "chaptertitle": "The Gaze Bearing",
+      "timeline": "985-03"
+    },
+    {
+      "id": "chapter_n_9128",
+      "company": "N Corp.",
+      "area": "District 14",
+      "chapter": "Canto X",
+      "chapterNumber": "10",
+      "chaptertitle": "The Gaze Bearing",
+      "timeline": "985-03"
     }
   ]
 }

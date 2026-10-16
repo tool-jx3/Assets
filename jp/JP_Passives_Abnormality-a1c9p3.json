@@ -325,7 +325,7 @@
     {
       "id": 132214,
       "name": "未来の残像",
-      "desc": "特定ターンごとに、「確定された相手」スキルを使用\n<color=#ff6000><mark=#ff000040><b><u>攻撃対象に指定された対象のみが該当スキルにマッチ可能</u></b></mark></color>\n\n自分の「確定された相手」スキルがマッチ敗北すると36～60の固定ダメージを受ける\n\n戦闘終了時、自分がこのターンに使用した<color=#ff6000><mark=#ff000040><b><u>全ての「確定された相手」スキルがマッチ敗北</u></b></mark></color>したなら、次のターンに[Vulnerable]1を得る"
+      "desc": "特定ターンごとに、「確定された相手」スキルを使用\n<color=#ff6000><mark=#ff000040><b><u>攻撃対象に指定された対象のみが該当スキルにマッチ可能</u></b></mark></color>\n\n自分の「確定された相手」スキルがマッチ敗北すると36<noparse>～</noparse>60の固定ダメージを受ける\n\n戦闘終了時、自分がこのターンに使用した<color=#ff6000><mark=#ff000040><b><u>全ての「確定された相手」スキルがマッチ敗北</u></b></mark></color>したなら、次のターンに[Vulnerable]1を得る"
     },
     {
       "id": 132217,
@@ -496,7 +496,7 @@
       "id": 134804,
       "name": "指令遂行",
       "desc": "このターンに[IndexPrescript_Base_2nd]を遂行したなら、\nターン終了時に精神力を15回復、[BlessingOfIndexPrescriptEnemy]1を得る (1ターンにつき1回)\n\nこのターンに<color=#ff6000><mark=#ff000040><b><u>[IndexPrescript_Base_2nd]を遂行できなければ、\nターン終了時に[KarmaOfIndexRien_2Phase]を10得て、[BlessingOfIndexPrescriptEnemy]を1失う、\n[IndexPrescriptTargetToPersonality]だった囚人が次のターンに[ParryingResultUp]2を得る</u></b></mark></color>\n- 強力なスキルを使用したターンなら、代わりに[KarmaOfIndexRien_2Phase]を15得て[BlessingOfIndexPrescriptEnemy]を3失う",
-      "flavor": "家族を……失いました。\n\n「行かないで…。」\n「このまま行かないで…。パパ…私たちのこと…助けて…。」"
+      "flavor": "家族を…失いました。\n\n「行かないで…。」\n「このまま行かないで…。パパ…私たちのこと…助けて…。」"
     },
     {
       "id": 132224,

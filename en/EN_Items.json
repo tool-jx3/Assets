@@ -502,7 +502,7 @@
       "id": 234,
       "name": "Takeoff Module - E.G.O Spinning [HE] x1",
       "desc": "Raises an E.G.O's Threadspinning Tier up to Tier 4. (Usable only on E.G.Os HE Level or lower)",
-      "flavor": "The second E.G.O Threadspinning Module developed by LCA R&D Team.\nWeaves the shimmering threads with numerous shards, enhancing the E.G.O Threadspinning tier to the [HE] level at an accelerated pace.\nWeave the shards together with the threads to compress together a form. The warm light of the threads is reminiscent of the light that had once showered the City for some time."
+      "flavor": "The second E.G.O Threadspinning Module developed by LCA R&D Team.\nWeaves the shimmering threads with numerous shards, enhancing the E.G.O Threadspinning tier of [HE]-level or lower E.G.O at an accelerated pace.\nWeave the shards together with the threads to compress together a form. The warm light of the threads is reminiscent of the light that had once showered the City for some time."
     },
     {
       "id": 20024,
@@ -553,6 +553,12 @@
       "flavor": ""
     },
     {
+      "id": 30008,
+      "name": "Starlight of Sisyphe",
+      "desc": "Used in Mirror Dungeons.\n\n<color=#a16a3b>Starlight that can be collected only within a fleeting span of time. Starlights, gathered glint by glint, are destined to eventually scatter. Though no one knows how long this cycle of twinkling and fading will repeat, we continue to glean them into a neat pile. And all the same, once this starlight reaches the apex, it will soon disappear like a boulder rolling over the horizon, tumbling down the hill. You know this with absolute certainty.</color>",
+      "flavor": ""
+    },
+    {
       "id": 20034,
       "name": "Intro to Zhi, Yong, Ren",
       "desc": "Used to purchase various rewards from the Reward Exchange menu.\n\n<color=#a16a3b>The Wise are unshaken, the Brave are unafraid, and the Benevolent are untroubled. No matter what discipline it may be, to build the pillars of learning upon the three foundations of Zhi, Yong, and Ren is to build a soaring tower. Which summons forth an intriguing question: can not all of education be condensed into Zhi, Yong, and Ren? - Tianji Star(天機星)</color>",
@@ -579,7 +585,7 @@
     {
       "id": 9900,
       "name": "Threadskein",
-      "desc": "Used to weave Façades of Identities to be projected.",
+      "desc": "Used to weave Façades of Identities to be projected.\n\n<color=#a16a3b>Wisps of light woven into threads, then twined into a skein.\nThe strands of light are components of a universal connection—should a thread in the weave tremble, so does a distant one, thereby making all that it connects interlinked by ties of vibrations.\nAs such, it is by no means absurd to consider an outfit made of threads a façade in all its meaning.</color>",
       "flavor": ""
     },
     {
@@ -593,6 +599,48 @@
       "name": "Severed and Scorched Skein",
       "desc": "Spawns rarely. Converted to 20 Severed Thread immediately upon acquisition.\n\n<color=#a16a3b>To truly sever a thread, it must be burned, not cut. Keenness is a means insufficient to achieving the total annihilation that burns and melts away even the lingering remnants of an erstwhile connection down to the frayed ends of separated threads. It must be that only with resolute determination and heart can one sever such a connection.\n\nShould these skeins of severed and scorched strings be twined anew, perhaps the resulting new thread can be used to connect hearts once again? I certainly hope so, though there is no way for us to know at this moment.</color>",
       "flavor": ""
+    },
+    {
+      "id": 238,
+      "name": "Takeoff Module - E.G.O Spinning [ZAYIN]",
+      "desc": "Raises an E.G.O's Threadspinning Tier up to Tier 4 (Usable only on ZAYIN-level E.G.O).\n\n<color=#a16a3b>Greatly accelerates the Threadspinning of a [ZAYIN]-level E.G.O by weaving it with a great number of shards in a short span of time. \"Should a thread in the weave tremble, so does a distant one...\" such were the words spoken by the people here. If all of these strands are components of a universal connection as they claim, then the act of deciphering a given object must also be the equivalent of unraveling the thread. I find myself thinking, what would come to pass if <i>all</i> of the threads wrapped around me are unraveled?</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20045,
+      "name": "Burnt-in Lens",
+      "desc": "Used for exchanging always-available, Standard Rewards at the \"Reflectrial][lairtcelfeR\" Reward Exchange shop.\n\n<size=75%><color=#a16a3b>Through warped glass it is fired. Those reflected in this lens are soon spliced into films, and before long, are peeled away from them; now untethered, they become shadows that bar one's path. Unfortunate as it is, every lens has a finite lifespan. Once a lens has let the searing light pass through the whole of its body, it becomes scorched and baked through—a fresh lens then takes its place to preserve the projected shadows. These burnt-in lenses are what remain in the wake of this process, much like keepsakes of the dead.\n\n\"The way they're blowing through those lenses... Do they have the slightest clue how exorbitantly expensive those things are? Combat capability enhancement, process analysis—yes, I know the reasons are all valid, but I cannot wrap my head around using this many. The company really must be drowning in money.\"</color></size>\n",
+      "flavor": ""
+    },
+    {
+      "id": 20046,
+      "name": "Photos",
+      "desc": "Used to purchase various rewards from the Reward Exchange menu.\n\n<color=#a16a3b>*snap* The sound of a hammer driving a nail in. But what precisely is being \"driven in?\" The camera waylays the light of a given moment, then nails it onto rough paper for exhibition. Was the photograph taken as a record or a remembrance? Perhaps a photograph's name ought to change depending on which purpose it is made to serve. After all, beams of light nailed down by a hammer, only to be recorded and never remembered, are pitiable things. Within printed photographs, dead lights scream in despair, burned and blackened. The dead lights, perished screaming where they are nailed, record the smile of someone standing in the photograph.</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20047,
+      "name": "Photo Bundles",
+      "desc": "Spawns rarely. Converted to 20 Photos immediately upon acquisition.\n\n<color=#a16a3b>'Quite a lot of photographs retrieved here. Oh, did you know? These photos are composed of matter produced by a Distortion, but they remain in existence. Some Distortion byproducts fade away when the case is resolved, but some don't, even after everything is over. I wonder if this has something to do with the nature of the Distortion. Well, we do know that this Distortion wished to record something and remember it... hence the photographs. Perhaps that's why these photographs are left behind as some kind of \"record.\" This calls for research into exactly what results in the difference in a Distortion's property from another Distortion's. Well, working in LCD will probably give me some insight in due time... though I'd rather not cooperate with LCE.'</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20048,
+      "name": "Unrolled Film",
+      "desc": "Used for purchasing Limited Rewards from the \"Reflectrial][lairtcelfeR]\" Reward Exchange shop.\n\n<size=70%><color=#a16a3b>Upon the film, the light is embedded and etched. A subsequent flash of light will soon penetrate the information contained within the preceding light etched like a silhouette—much like what remains when a human body is exposed to a devastating explosion of light and heat. The captured light, akin to a taxidermied still, contains the memories of someone, something. When new light passes through the film and the lens both, the plain ray is transfigurated into an image of light; through it, the information retained in the initial flash still remains. The image the living light forms is not one of itself but an image of a corpse, traces of dead light; how ironic, that the light that lives can form an image only when it passes through the light that has died? That is why the art of projection is a bitter one—the art that forces the living through the dead, killing it, only to project a mere simulacrum of life.\n\n\"Where are ya even getting these films from? Is there, like, a dedicated documentarian or a recording machine that tapes LCB's battles? That can't be it... Or is this also...?\"</color></size>",
+      "flavor": ""
+    },
+    {
+      "id": 751,
+      "name": "Nominable Announcer Ticket [Yisang Exchange]",
+      "desc": "Use this item to select and obtain an Announcer from a list of Announcers that can be acquired through Yisang Exchange on the Extraction menu.\n(※ Does not include Walpurgis Night Announcers)",
+      "flavor": "Contains recordings of Announcers who relay the current battlefield status.\n\n\"Hey, so... some of these tapes are recordings of people who are already long dead. Wonder where they got these voices from?\"\n\"By capturing and trapping a few—situationally relevant, of course—voices observed from beyond the Mirror Worlds, they say.\"\n\"It's the Mirror again? Mirror this, Mirror that—might as well use the Mirror to deal with everything, this company!\"\n\"Aren't we already doing that?\"\n\"... Yeah, but... Have we thought about the consequences of using this technology...?\""
+    },
+    {
+      "id": 237,
+      "name": "Takeoff Module - E.G.O Spinning [TETH]",
+      "desc": "Raises an E.G.O's Threadspinning Tier up to Tier 4. (Usable only on E.G.Os TETH Level or lower)",
+      "flavor": "The fourth E.G.O Threadspinning Module developed by LCA R&D Team.\nWeaves the shimmering threads with numerous shards, enhancing the E.G.O Threadspinning tier of [TETH]-level or lower E.G.O at an accelerated pace.\nClothes are assembled from fabric, and fabric is woven from threads. Those threads are themselves twisted together from still finer strands. What was the term for these repeating patterns again—a fractal? Sometimes, when I see these patterns, I get an odd sense of deja vu.\n\n<i>Something</i> is recurring."
     }
   ]
 }

@@ -786,6 +786,629 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2050911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Shadow-vested Bladesinger [着影揮刀]",
+          "abName": "Geseundae",
+          "desc": "When used for the first time in an Encounter, consume 15 less SP\n- If Blade Lineage Mentor Meursault used this Skill, also consume 1 fewer Wrath, Pride, and Envy E.G.O resources\n\nClash Power +1 and deal +6% damage for every 4 [Breath] on self (max 4, max 12% respectively)\n\nIf this unit gained [AlcoholKimPersonal] during this Encounter, deal +60% damage against the main target\n- Blade Lineage Mentor Meursault deals +120% damage against the main target instead\n\n[BeforeAttack] Gain +(highest Reson. / 2) Atk Weight (max 2, rounded down)\n[BeforeAttack] (3 + highest Reson.) allies with the earliest Deployment orders gain +4 [Breath] Count\n[EndSkill] 4 other allied Blade Lineage Identities that have the lowest SP heal 10 SP\n[EndSkill] Gain 4 [AlcoholKimPersonal] next turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Shadow-vested Bladesinger [着影揮刀]",
+          "abName": "Geseundae",
+          "desc": "When used for the first time in an Encounter, consume 15 less SP\n- If Blade Lineage Mentor Meursault used this Skill, also consume 1 fewer Wrath, Pride, and Envy E.G.O resources\n\nClash Power +1 and deal +6% damage for every 4 [Breath] on self (max <style=\"highlight\">6</style>, max <style=\"highlight\">24</style>% respectively)\n\nIf this unit gained [AlcoholKimPersonal] during this Encounter, deal +<style=\"highlight\">80</style>% damage against the main target\n- Blade Lineage Mentor Meursault deals +<style=\"highlight\">160</style>% damage against the main target instead\n\n[BeforeAttack] Gain +(highest Reson. / 2) Atk Weight (max 2, rounded down)\n[BeforeAttack] (3 + highest Reson.) allies with the earliest Deployment orders gain +4 [Breath] Count\n[EndSkill] 4 other allied Blade Lineage Identities that have the lowest SP heal 10 SP\n[EndSkill] Gain 4 [AlcoholKimPersonal] next turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Shadow-vested Bladesinger [着影揮刀]",
+          "abName": "Geseundae",
+          "desc": "When used for the first time in an Encounter, consume 15 less SP\n- If Blade Lineage Mentor Meursault used this Skill, also consume 1 fewer Wrath, Pride, and Envy E.G.O resources\n\nClash Power +1 and deal +6% damage for every 4 [Breath] on self (max <style=\"highlight\">8</style>, max <style=\"highlight\">30</style>% respectively)\n\nIf this unit gained [AlcoholKimPersonal] during this Encounter, deal +<style=\"highlight\">100</style>% damage against the main target\n- Blade Lineage Mentor Meursault deals +<style=\"highlight\">200</style>% damage against the main target instead\n\n[BeforeAttack] Gain +(highest Reson. / 2) Atk Weight (max 2, rounded down)\n[BeforeAttack] (3 + highest Reson.) allies with the earliest Deployment orders gain +4 [Breath] Count\n[EndSkill] 4 other allied Blade Lineage Identities that have the lowest SP heal 10 SP\n[EndSkill] Gain 4 [AlcoholKimPersonal] next turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Shadow-vested Bladesinger [着影揮刀]",
+          "abName": "Geseundae",
+          "desc": "[CantIdentify]\nTargets randomly\n\nClash Power +2 and deal +6% damage for every 4 [Breath] on self (max 8, max 12% respectively)\n\nIf this unit gained [AlcoholKimPersonal] during this Encounter, deal +60% damage against the main target\n- Blade Lineage Mentor Meursault deals +120% damage against the main target\n\n[BeforeAttack] Base Power -2 for every Cracked Coin (max -8)\n[BeforeAttack] All enemies and allies gain +4 [Breath] Count, 1 [SlashDamageUp] and 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 other allied Blade Lineage Identities that have the lowest SP heal 10 SP\n[EndSkill] Gain 4 [AlcoholKimPersonal] next turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] The final Coin gains Final Power +2 (once per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] The final Coin gains Final Power +2 (once per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] The final Coin gains Final Power +2 (once per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Shadow-vested Bladesinger [着影揮刀]",
+          "abName": "Geseundae",
+          "desc": "[CantIdentify]\nTargets randomly\n\nClash Power +2 and deal +6% damage for every 4 [Breath] on self (max <style=\"highlight\">12</style>, max <style=\"highlight\">24</style>% respectively)\n\nIf this unit gained [AlcoholKimPersonal] during this Encounter, deal +<style=\"highlight\">80</style>% damage against the main target\n- Blade Lineage Mentor Meursault deals +<style=\"highlight\">160</style>% damage against the main target\n\n[BeforeAttack] Base Power -2 for every Cracked Coin (max -8)\n[BeforeAttack] All enemies and allies gain +4 [Breath] Count, 1 [SlashDamageUp] and 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 other allied Blade Lineage Identities that have the lowest SP heal 10 SP\n[EndSkill] Gain 4 [AlcoholKimPersonal] next turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] The final Coin gains Final Power +2 (once per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] The final Coin gains Final Power +2 (once per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] The final Coin gains Final Power +2 (once per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Shadow-vested Bladesinger [着影揮刀]",
+          "abName": "Geseundae",
+          "desc": "[CantIdentify]\nTargets randomly\n\nClash Power +2 and deal +6% damage for every 4 [Breath] on self (max <style=\"highlight\">16</style>, max <style=\"highlight\">30</style>% respectively)\n\nIf this unit gained [AlcoholKimPersonal] during this Encounter, deal +<style=\"highlight\">100</style>% damage against the main target\n- Blade Lineage Mentor Meursault deals +<style=\"highlight\">200</style>% damage against the main target\n\n[BeforeAttack] Base Power -2 for every Cracked Coin (max -8)\n[BeforeAttack] All enemies and allies gain +4 [Breath] Count, 1 [SlashDamageUp] and 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 other allied Blade Lineage Identities that have the lowest SP heal 10 SP\n[EndSkill] Gain 4 [AlcoholKimPersonal] next turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] The final Coin gains Final Power +2 (once per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] The final Coin gains Final Power +2 (once per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] The final Coin gains Final Power +2 (once per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2051011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hollow",
+          "abName": "Hollowed Man",
+          "desc": "If the target is defeated before this Skill is finished, prioritize a target that has the lowest HP (for Focused Encounters, the Part)\n\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max 5)\nClash Power +2 for every [BulletHole] on self\n\n[BeforeAttack] Gain +3 [Breath] Count and +5 [Charge] Count\n[BeforeAttack] Consume 3(5 - [BulletHole] on self) SP to gain up to max [BulletHole]\n\n[EndSkill] Gain 2 [BlackWingHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "This Coin hits only the main target"
+                },
+                {
+                  "desc": "Spend 1 [BulletHole]"
+                },
+                {
+                  "desc": "Deal +10% damage on Critical Hit"
+                },
+                {
+                  "desc": "If this is the first Coin:\n- Deal +([Charge] Count x 5)% damage (max 100%)\n- Deal +([Breath] Potency x Count)% damage on Critical Hit (max 100%)\n- For this Coin, change target's Pierce Resist. to Fatal"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                },
+                {
+                  "desc": "[EndCoin] At 1+ [BulletHole], Reuse this Coin (4 times per Skill)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Deal +30% damage on Critical Hit"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hollow",
+          "abName": "Hollowed Man",
+          "desc": "If the target is defeated before this Skill is finished, prioritize a target that has the lowest HP (for Focused Encounters, the Part)\n\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max <style=\"highlight\">7</style>)\nClash Power +2 for every [BulletHole] on self\n\n[BeforeAttack] Gain +3 [Breath] Count and +5 [Charge] Count\n[BeforeAttack] Consume 3(5 - [BulletHole] on self) SP to gain up to max [BulletHole]\n\n[EndSkill] Gain 2 [BlackWingHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "This Coin hits only the main target<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Spend 1 [BulletHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Deal <style=\"highlight\">+15%</style> damage on Critical Hit"
+                },
+                {
+                  "desc": "If this is the first Coin:\n- Deal +([Charge] Count x 5)% damage (max 100%)\n- Deal +([Breath] Potency x Count)% damage on Critical Hit (max 100%)\n- For this Coin, change target's Pierce Resist. to Fatal<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Final Coin Power +1</style>"
+                },
+                {
+                  "desc": "[EndCoin] At 1+ [BulletHole], Reuse this Coin (4 times per Skill)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Deal <style=\"highlight\">+50%</style> damage on Critical Hit"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] When attacking just 1 target, deal +50% damage (in Focused Encounters, a Core)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hollow",
+          "abName": "Hollowed Man",
+          "desc": "If the target is defeated before this Skill is finished, prioritize a target that has the lowest HP (for Focused Encounters, the Part)\n\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max <style=\"highlight\">10</style>)\nClash Power +2 for every [BulletHole] on self\n\n[BeforeAttack] Gain +3 [Breath] Count and +5 [Charge] Count\n[BeforeAttack] Consume 3(5 - [BulletHole] on self) SP to gain up to max [BulletHole]\n\n[EndSkill] Gain 2 [BlackWingHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "This Coin hits only the main target<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Spend 1 [BulletHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Deal <style=\"highlight\">+20%</style> damage on Critical Hit"
+                },
+                {
+                  "desc": "If this is the first Coin:\n- Deal +([Charge] Count x 5)% damage (max 100%)\n- Deal +([Breath] Potency x Count)% damage on Critical Hit (max 100%)\n- For this Coin, change target's Pierce Resist. to Fatal<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] (once per Skill)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Final Coin Power +1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndCoin] At 1+ [BulletHole], Reuse this Coin (4 times per Skill)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Deal +50% damage on Critical Hit<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] When attacking just 1 target, deal +<style=\"highlight\">100</style>% damage (in Focused Encounters, a Core)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Coin Power +1 for every 4 [Charge] Count (max 5)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2051021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hollow",
+          "abName": "Hollowed Man",
+          "desc": "[CantIdentify]\nTargets randomly\nThis Skill does not trigger Defense Skills (including Clashable Defense Skills)\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max 5)\n[BeforeAttack] If this unit does not have [BulletHole], gain 1 [BulletHole]\n[BeforeAttack] Base Power -2 for every Cracked Coin (max -4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Gain 5 [BlackWingHole]"
+                },
+                {
+                  "desc": "[OnStartCoin] Gain +5 [Charge] Count"
+                },
+                {
+                  "desc": "[OnStartCoin] Gain 5 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "This Coin has ([BulletHole] on self x 20)% chance to flip Tails regardless of this unit's SP"
+                },
+                {
+                  "desc": "[CoinHead]\n- This Coin does not hit"
+                },
+                {
+                  "desc": "- [EndCoin] Gain 5 [Breath]"
+                },
+                {
+                  "desc": "- [EndCoin] Gain +3 [Breath] Count"
+                },
+                {
+                  "desc": "- [EndCoin] Gain 2 [BulletHole]"
+                },
+                {
+                  "desc": "- [EndCoin] Refund half of the E.G.O resources consumed by this Skill (rounded down)"
+                },
+                {
+                  "desc": "[CoinTail]\n- Deal +([Charge] Count x 3)% damage (max 60%)"
+                },
+                {
+                  "desc": "- Deal +70% damage on Critical Hit"
+                },
+                {
+                  "desc": "- [OnSucceedAttack] Deal Pierce damage equal to 10% of this Coin's final damage"
+                },
+                {
+                  "desc": "- [EndCoin] Consume all [BulletHole] on self"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 5 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hollow",
+          "abName": "Hollowed Man",
+          "desc": "[CantIdentify]\nTargets randomly\nThis Skill does not trigger Defense Skills (including Clashable Defense Skills)\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max <style=\"highlight\">7</style>)\n\n<style=\"highlight\">[BeforeAttack] When attacking just 1 target, deal +100% damage (in Focused Encounters, a Core)</style>\n[BeforeAttack] If this unit does not have [BulletHole], gain 1 [BulletHole]\n[BeforeAttack] Base Power -2 for every Cracked Coin (max -4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Gain 5 [BlackWingHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Gain +5 [Charge] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Gain 5 [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "This Coin has ([BulletHole] on self x 20)% chance to flip Tails regardless of this unit's SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CoinHead]\n- This Coin does not hit<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Gain 5 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Gain +3 [Breath] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Gain 2 [BulletHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Refund half of the E.G.O resources consumed by this Skill (rounded down)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CoinTail]\n- Deal +([Charge] Count x <style=\"highlight\">4)% damage (max 80%)</style>"
+                },
+                {
+                  "desc": "- Deal <style=\"highlight\">+100%</style> damage on Critical Hit"
+                },
+                {
+                  "desc": "- [OnSucceedAttack] Deal Pierce damage equal to <style=\"highlight\">15</style>% of this Coin's final damage"
+                },
+                {
+                  "desc": "- [EndCoin] Consume all [BulletHole] on self<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 5 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hollow",
+          "abName": "Hollowed Man",
+          "desc": "[CantIdentify]\nTargets randomly\nThis Skill does not trigger Defense Skills (including Clashable Defense Skills)\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max <style=\"highlight\">10</style>)\n\n[BeforeAttack] When attacking just 1 target, deal +<style=\"highlight\">200</style>% damage (in Focused Encounters, a Core)\n<style=\"highlight\">[BeforeAttack] Gain Final Power +([BulletHole] on self)</style>\n[BeforeAttack] If this unit does not have [BulletHole], gain 1 [BulletHole]\n[BeforeAttack] Base Power -2 for every Cracked Coin (max -4)\n<style=\"highlight\">[EnemyKill] Heal 5 SP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Gain 5 [BlackWingHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Gain +5 [Charge] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Gain 5 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Binding] next turn</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "This Coin has ([BulletHole] on self x 20)% chance to flip Tails regardless of this unit's SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CoinHead]\n- This Coin does not hit<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Gain 5 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Gain +3 [Breath] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">- [EndCoin] Remove 1 random removable negative effect applied to self</style>"
+                },
+                {
+                  "desc": "- [EndCoin] Gain 2 [BulletHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Refund half of the E.G.O resources consumed by this Skill (rounded down)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CoinTail]\n- Deal +([Charge] Count x <style=\"highlight\">5)% damage (max 100%)</style>"
+                },
+                {
+                  "desc": "- Deal +<style=\"highlight\">130</style>% damage on Critical Hit"
+                },
+                {
+                  "desc": "- [OnSucceedAttack] Deal Pierce damage equal to <style=\"highlight\">20</style>% of this Coin's final damage"
+                },
+                {
+                  "desc": "<style=\"highlight\">- [EnemyKill] Heal 5% HP</style>"
+                },
+                {
+                  "desc": "- [EndCoin] Consume all [BulletHole] on self<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 5 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
