@@ -153,7 +153,9 @@
         "StoryVoiceSettingUI",
         "SelectLoadingCgUi",
         "MainUIText-a1c10p1",
-        "UnitKeyword-a1c10p3"
+        "UnitKeyword-a1c10p3",
+        "MirrorDungeonUI_8_Achievement",
+        "EventVerificationUIText"
     ],
     "character": [
         "Characters"
@@ -1064,7 +1066,9 @@
         "Voice_Ishmael_Contem_10816",
         "Voice_Rodion_Contem_10917",
         "Voice_DonQuixote_Contem_10315",
-        "Voice_Sinclair_Contem_11016"
+        "Voice_Sinclair_Contem_11016",
+        "Voice_Heathcliff_Contem_10717",
+        "Voice_Honglu_Contem_10617"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -1150,17 +1154,17 @@
         "Voice_EGO_Common_998"
     ],
     "battleSpeechBubble": [
-        "BattleSpeechBubbleDlg",
-        "BattleSpeechBubbleDlg_Cultivation",
-        "BattleSpeechBubbleDlg_mowe",
-        "BattleSpeechBubbleDlg-a1c9p1",
-        "BattleSpeechBubbleDlg-a1c9p2",
-        "BattleSpeechBubbleDlg-a1c9p3",
-        "BattleSpeechBubbleDlg-a1c10p1",
-        "BattleSpeechBubbleDlg-a1c10p3",
-        "BattleSpeechBubbleDlg-a1c10p2",
-        "BattleSpeechBubbleDlg-twth",
-        "BattleSpeechBubbleDlg-exme"
+      "BattleSpeechBubbleDlg",
+      "BattleSpeechBubbleDlg_Cultivation",
+      "BattleSpeechBubbleDlg_mowe",
+      "BattleSpeechBubbleDlg-a1c9p1",
+      "BattleSpeechBubbleDlg-a1c9p2",
+      "BattleSpeechBubbleDlg-a1c9p3",
+      "BattleSpeechBubbleDlg-a1c10p1",
+      "BattleSpeechBubbleDlg-a1c10p3",
+      "BattleSpeechBubbleDlg-a1c10p2",
+      "BattleSpeechBubbleDlg-twth",
+      "BattleSpeechBubbleDlg-exme"
     ],
     "iapProduct": [
         "IAPProduct",
@@ -1359,6 +1363,7 @@
     "storyCh8VideoEffect": [
         "Ch8VideoEffectSettings"
     ],
+
     "storyCh8TextEffect": [
         "Ch8TextEffectSettings"
     ],
